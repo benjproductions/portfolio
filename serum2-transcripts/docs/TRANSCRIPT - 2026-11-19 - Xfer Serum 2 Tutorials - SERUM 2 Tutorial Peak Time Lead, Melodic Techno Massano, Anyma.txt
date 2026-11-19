@@ -1,0 +1,44 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 30 - SERUM 2 Tutorial | Peak Time Lead, Melodic Techno | Massano, Anyma
+Source: https://www.youtube.com/watch?v=UUjedCqJDhg
+Transcript: Captions pulled 2026-11-19
+
+>> Hey everyone, this is Lior ready from Abstract Music Lab and today I'm back here in the sound design channel recreating a lead called phonic and it sounds like this. >> >> If you want to listen to this in context with side chain >> >> If you like this preset you can get over here in the description below in the serum two techno presets volume two that is available at production music lives website. But now let's get started with this tutorial. We're going to initialize serum. We're going to deactivate shaper box.
+
+And this is how it sounds like. >> >> Pretty boring. So basic shapes >> >> minus one make it into a saw add voices to make it stereo but let's focus more on the sides. That's why I'm increasing the blend. Randomness down.
+
+And you can see how this kind of makes the sound shift a little bit back to the center. And a bit less level. Now oscillator B same thing basic shapes saw wave but a bit less volume. >> >> Phase and randomness down. So it's really dead center.
+
+>> >> But we're going to go here in the matrix. We're going to select here's note discrete which is essentially just a random note. We're going to go into oscillator B pan bipolar something like this. So it kind of moves randomly. >> >> And now we're going to select a default shape saw wave.
+
+Again minus one. The fifth wave table which is a square and really quietly. >> >> Something like this. Now white noise >> >> a bit more stereo. We're going to pick this filter put it a bit up.
+
+>> >> And we're also going to make the level a bit down. Something like this. And that's about it. Now we're going to shape the sound with the envelope. Sustain as it is we're just going to go here in the decay make it a bit smaller which not going to change a bit because the sustain is all the way down.
+
+That changes a bit. >> >> Now filter number one ABC and noise we're going to pick this cut off put it all the way down. We don't hear anything. Why? Because you have to use envelope two to modulate this.
+
+Something like this. But how is this envelope two? Sustain something like this. >> >> The decay also a bit down really tight. >> >> The release a bit longer.
+
+This is going to go pretty much as it is and this over here is going to go again as it is. >> >> 47% and that's what we need. Now we're going to go into the effects section and we're going to do a lot over here. First we're going to start by using hyper dimension to make this a tiny bit wider. >> >> You can see how this makes it wider just a tiny bit.
+
+And here's the big change distortion. We're going to use this a lot. >> >> But this sound is sounding a bit too faint. Let's go back over here filter number two. Let's pick this cut off put it all the way up.
+
+Sounds a lot better. Now we're going to pick this resonance put it a bit down up actually. A bit of drive. And this sounds a lot better now. Delay 1/16 1/16 >> >> ping pong a lot more feedback and focusing mainly on the mids something like this with a lot less Q.
+
+And a lot less as well. But we're going to do this again now focusing specially on the high end ping pong again. 1/4 dot >> >> really just in the high end. >> >> Just so you can see it. >> >> So it holds mainly in the high end.
+
+>> >> Awesome. Compressor Now in the compressor we're going to use a single >> >> tiny bit down over here. We're going to use the same 4 to 1 ratio. The attack is going to be a little bit smaller because we're using a pluck so we need to be a little bit tighter. So because it's also a pluck we don't need to be super aggressive in the release.
+
+>> >> And we're going to give a little bit of boost because we're compressing a little bit. Something like this is good. Now reverb. >> >> Hall but without low end. And let's make it really big.
+
+>> >> And actually let's activate a little bit more high end. More size size of the room and the length of this reverb essentially but with a little bit of pre-delay. So essentially you're going to wait 8 milliseconds until this reverb starts going. >> >> With a lot more chorus over here. And a lot more rear end.
+
+>> >> Cool. EQ low shelf and high shelf we're going to take a lot of the low end. >> >> As it is and we're also going to boost a lot of the high end and the mids as well just so you can listen. Maybe not so much. Something like this.
+
+>> >> Now we're going to use a convolver which essentially going to merge something with a sound. We're going to merge this sound with something else. Which sound? We're going to use here short and we're going to go here into L90 hall small church chamber actually. Yeah.
+
+This is a nice one. Bigger. The tone is going to go a little bit different as well. With less high frequencies and less of this as well. >> >> We're going to make this all the way down because I want to make this come and go how with LFOs.
+
+So in the LFO we're going to do is just put it over there somewhere around here. >> >> But two bars >> >> and free. So it adds and goes back. This is going to remain at 50%. This is going to go around over here.
+
+>> >> And to finish it off utility and mono base. >> >> Now to finish it off if you want to listen to this in context >> >> But the coolest thing in the original presets is that if you get it you can find all the macros and the mod reels assigned so you can focus more on the creativity and less on the sound design. And you can get it over here in the description below. This is Lior ready from Abstract Music Lab signing off. Ciao.

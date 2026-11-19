@@ -1,0 +1,68 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 05 - SERUM 2 Tutorial | Arp, Techno | Enrico Sangiuliano, Jay Lumen
+Source: https://www.youtube.com/watch?v=CTi99pWDrhw
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is Lady Ready from Abstract Music Lab and I'm back here to the sound design channel. Today I'm recreating an arp called Arp Candy and it sounds like this. This is without side chain. So you can look at the MIDI. If you want to introduce a progression into this.
+
+So you can see that the notes changes over here. That also works. But now if you want to listen to this in context, this is how it sounds like. I'm going to add a little bit of side chain here just so you can see. It's just a little tiny bit of side chain.
+
+If you want to get this preset, you can get it over here in the description in the CM2 techno presets that are available at Production Music Lives website. But now, let's initialize this sound. We're going to deactivate the share box and we're going to initialize the sound here in Serum. And it sounds like this just so you can listen to it. Pretty horrible as usual.
+
+And now we're going to go and start by adding over here an arp. So we're going to go and click on the arp and just toggle it on. Okie dokie. And the first thing is we're going to pick the LFO one. We're going to attach it to the arp.
+
+Something like this. Not bipolar, uniolar. So hold alt shift. Something like this. But here in the LFO1, we're going to make it a little bit different.
+
+And we're going to put this somewhere over here. This one a little bit down. Somewhere like this. And this one a little bit further down. Yeah.
+
+Something like this. And now this is going to go to two bars. Then you can see how this speeds up as the progression goes with. Really nice. Now we're going to go and actually start shaping the sound.
+
+We're going to go and choose a basic mini. We're going to go an octave up. Unison a little bit up as well. So, we have more voices in the sound, which is why this sounds wide. And you can see that when you hover over over here, you can get a description of what this does.
+
+This happens when you go here in the global and press show instead of hide. We're going to go just so we can just go and see it quickly. Now, the tune a bit down. This puts the distance between the voices a little bit further down. So this makes it a little bit less troublesome.
+
+Blend a little bit up down actually. And you can see how the center becomes a little bit more prominent. Second thing we're going to go and choose a basic shapes. Leo, but why can't I use a default shapes? You can, but the phase is different.
+
+So it might change how the sound actually sounds. For example, this is how we want at this sound over here. And if we go to default shapes, this is what we have. Is it the same thing? Yes.
+
+But the again the phase is different. Unison also up here. Blend down. The tune down, not blend, but the blend is also going down. And the level goes a bit down at this point.
+
+Something like this. Okay. Now, we're going to go into the envelope. So, a little bit more attack. The sustain is going to go all the way down.
+
+Decay a lot down as well. And a bit more release. Now, we're going to go into the noise. Noise. We're going to go and select a color white.
+
+And we're going to put the level all the way down. So, we're going to pick the envelope and put it on the noise level. A little bit louder. Something like this. Cool.
+
+Now, LFO 2. What we're going to do is we're going to use a triangle. We're going to select free. We're going to put it to whole BPM. And we're also going to put this to 1/2.
+
+Now, this is going to go in the pan. So the pan goes a bit left and right. And we're going to use it bipolar. What is the difference of using bipolar and uniolar? Alt shift.
+
+And you can see here uniolar, bipolar. Perfect. Now filter. Going to select filter number one. We're going to go to the cutoff.
+
+And in the cutoff, what we're going to do is we're going to put this a little bit further down. Somewhere like this. And now we're going to select AB and noise. We can't hear anything because everything is being filtered. MG12, that's we're going to select with resonance, but we can listen to the resonance.
+
+So, let's go and do some automation first and then we're going to go back to this. So, envelope, we're going to go and put this a bit up already. Still can't hear it. So LFO1 as you can hear the sound a bit more at this point. So which makes it a bit better for us to work with.
+
+Resonance just a bit up. Doesn't make that much of a difference. Drive up and fat also up. What's the difference between the drive and the fat? The drive is a little bit of a mild distortion and the fat is a little bit of a mild saturation.
+
+One happens after the filter, which is the drive, and the other one happens before the filter, which is the fat. Perfect. Now, we're going to go into the effect section. And in the effects section, we're going to start with distortion. Quite heavy on the drive, but slow on the mix, which we're going to use is asymmetry.
+
+Leo, I have no idea what asymmetry does. So what you can do is you can just explore this. Go here in the oscillator C just so you can see it. Select asymmetry and make it higher. See the difference.
+
+That's the difference between this and tube for example. See how it makes the sound different. This is just for demonstration though. Cool. Now equalizer.
+
+And in the equalizer we're going to put the low cut a little bit down. Something like this. But this is going to actually be a low shelf. So, we're going to just put the level a lot down. And now the high shelf is going to be something like this at this frequency.
+
+Somewhere like this. And the gain is going to go a bit up. A bit more Q. And pretty much this shape is what you're looking for. Now, delay, just to add a bit more depth to this sound, we're going to select a 1/8 and a 1/4 dot.
+
+So 1/8 and 1/4 dot. This is going to be normal. Not going to use a ping pong delay, but the feed is going to go a little bit up. Just a tiny bit up. This tells how much the delay is going to remain after the delay starts.
+
+And now frequency. A bit up here and a bit down here because we mainly want the high-end frequencies. And a bit more wet. Perfect. Now, in addition to that, we're going to go into a reverb.
+
+And in the reverb, we're going to use a hull, a bit more low cut, high cut as it is, size as it is, prelay as it is, decay as it is, spin a bit down, but the wet is going to go a lot up. Oh. Now, in addition, we're going to use a compressor, and we're going to select multiband a bit less over here, which is going to compress more, but we're going to push the level a bit more with the gain. Now, attack a bit down. Now, we're going to only tweak here the level, which you're going to put here a little bit higher.
+
+Something like this. And also the mids are a little bit higher. Notice how if you double click, you can write the number. So if you want, we're not going to do anything on this one, but just so to show you, for example, that you can write whatever you want. Nice.
+
+Now, lastly, just a utility, and we're going to use a mono base pretty much as it is. If you want to make this a little bit deeper, what you can also do is change the wave table position comparing to this. You can see how this is a little bit less deep. I think that I prefer this one. And now, if you want to listen to it in context, we're going to activate the shape box.
+
+Again, really cool sound that you can find over here in the description below. Hope that you like this tutorial and if you liked it, leave the thumbs up. This is Leo already from Abstract Music Lab signing off. Tow.

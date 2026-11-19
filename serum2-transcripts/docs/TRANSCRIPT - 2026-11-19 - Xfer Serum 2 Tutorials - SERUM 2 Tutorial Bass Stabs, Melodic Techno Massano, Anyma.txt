@@ -1,0 +1,60 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 31 - SERUM 2 Tutorial | Bass Stabs, Melodic Techno | Massano, Anyma
+Source: https://www.youtube.com/watch?v=4nKSsD2E7t4
+Transcript: Captions pulled 2026-11-19
+
+>> Hey everyone, this is Loll Redy from Abstract Music Lab and today I'm back here into the sound design channel. Today I'm recreating a stab called function and it sounds like this if you want to check the MIDI. No side chain, just a MIDI. >> >> Now if you want to check this in context, what we can do here activate a bit of the side chain. >> >> And if you want to get this preset you can get it over here at the end of the description below in the Serum 2 Techno Presets Volume 2 that is available at Production Music Live's website.
+
+But now let's get started with this sound design. Let's initialize the sound and this is how it sounds like. No side chain. >> >> So let's get started over here. We're going to first select here an 80 matriarch in the Serum 2 wave tables.
+
+>> >> Minus one. Fine to something like this. Just so it's not exactly in the center. Unison as it is. Wave table we're going to put it a bit up.
+
+>> >> More of a square wave kind of something like this. Level a bit down. And also a high pass filter. Just to tame a little bit of those low mids. Great.
+
+Also to finish phase to zero so it always starts the same way. Now we're going to select here a analog saw fazey. This is going to be really quiet. We're going to barely listen to everything that we're doing here because this is mainly going to be used for the oscillator number C. Then we're going to put this minus two 16.
+
+But again, we barely hear a difference. We're going to put the randomness down to zero again, so it always starts at the same point. And why are we using this? Because we're using this as an PD, a phase distortion from B. The phase distortion, we're modulating the sound based on the phase of the sound and not based on the frequency.
+
+So just so you can hear it already. It already crushes the sound a lot. But we're going to choose here an AT Pro Mars. And we're going to choose here a different wavetable. Something like this, unison.
+
+Detune. Unison, we're expanding this. Detune, we're making the voices a bit more further apart. Blend as it is and warp as it is we had it. But now we're also have to put this to minus two.
+
+[snorts] And fine to 10. So this is the main sound and this is just creating a bit of phasing because of the fine as well. Now we're going to go here into the filter first because we're going to have to change the sound a little bit. So MG 24 ABC. Put this all the way down to 20.
+
+And you can see how this sounds really filtered. We're going to go now into envelope two, make it into a pluck, and already throw it over here. >> >> Something like this. And you can see how the sound already comes up. Now we also have to modulate envelope number one, but let's do both over here.
+
+So envelope number two first, decay a bit down. Release a bit up. Something like this. And now we're going to go into envelope one. Sustain a bit down.
+
+And release a bit up. >> >> Something like this. And this has to go pretty much a little bit further down, somewhere like here. Around this region. That's good.
+
+That's about it for the envelope one and for the envelope two. Now we also have to go into the matrix, throw the velocity over here, and add the global amp all the way and bipolar. This makes every note that you play a little bit different because now the harder you press, the bigger the amplitude of the note it is. And effects where we're going to change a lot of the sounds and we're going to go and do this right now. So we're going to get started here with an EQ.
+
+And in this EQ, we're going to get started by low cutting. >> >> Actually, instead of low cutting, let's do this maybe afterwards, but let's take a little bit of those mids. >> >> Somewhere over here. Maybe not as much. Maybe a little bit tighter.
+
+>> >> Now we're going to also boost a bit of those highs. >> >> But I want a bit more of this. Something like this. >> >> Now we're also choosing here a filter. It's going to be an Serum 2 filter.
+
+It's going to be a diffuser. >> >> We're going to put the stages. We're going to put the cut off a bit down. >> >> Something like this and a bit more resonance. >> >> Without it, it creates a bit of instability in the sound.
+
+We're going to use now a convolve. And the convolve we're pretty much merging one sound into the other. We're going to go and select a weird toxic aftermath. >> >> But we're going to make this and put this all the way down. But let's shape this sound first.
+
+Tone, let's put it a bit different. >> >> And you can see how this shapes the sound itself. Size really big. >> >> You can see that it's just becomes really big, but we're going to make it a bit smaller by changing the input gain. >> >> We're also going to change the decay and make it a lot smaller.
+
+>> >> And increase the dampening. >> >> To make the sound dampen a little bit more. Essentially to tame a little bit of the high-end frequencies a bit. Pre-delay. >> >> Now we're going to pick this mix and put it all the way down.
+
+Do you know why? Yeah, because we're changing this over here into a re-trigger and we're going to put this to 1/4. And we're putting this over here in the mix. Just a tiny bit. >> >> But we're making this into something like this.
+
+>> >> So there's still a little bit there, but just in the background. Here's where the biggest change is going to happen. We're going to go into a compressor, multi-band. Now, we're going to leave everything as it is here, two to one. As it is, release a bit bigger.
+
+This which compresses pretty much a lot of everything and it stays for a really long time as well. Gain. Now, we're going to keep everything as it is over here. Now, we're just going to raise the levels here. >> >> Raise the mids as well.
+
+And lower a bit of the low end. >> >> Something like this. Now, we're going to go into a delay and in the delay, what we're going to do is choose normal 1/4 and 1/8 dot. So, this kind of creates already a ping pong effect. Because they're not synced, they're going to go left and right, left and right and this creates a ping pong effect.
+
+>> >> A bit more feedback, so how long the delay stays. >> >> And just a little bit less, but we're going to make this a bit smaller. Focus in this mid-range just a tiny bit as well. Now, we're going to boost a little bit of the distortion as well. We're going to use here an asymmetry distortion.
+
+>> >> Because we're using distortion, this introduces a lot of low end frequencies into this and now we're going to low cut everything. That's why I didn't do it in the beginning. >> >> But, just a tiny bit. To finish, reverb. Hall.
+
+Last high end. A bit more decay. A bit more size. >> >> So, essentially we're making it bigger, we're making it longer as well, and we're also adding a bit of pre-delay, which is how long it takes for the reverb to actually start playing. >> >> And we're going to increase a bit of the depth, which is kind of the chorus of the reverb.
+
+So, now wet as it is, and to finish everything, utility, mono base, and just make it a bit bigger. >> >> Now, if you want to make this sound even bigger, what you can do here is go into filter number one, increase a lot of the saturation here, a bit of this as well. >> >> And you can also pick this resonance and put it a bit up. This is going to add a bit more saturation to the sound, which is going to make it a bit bigger. >> >> And that's it.
+
+Now, if you want to listen to this in context, >> >> and you can get this preset over here in the description below, and the preset is a lot more interesting because it has a lot of modulations here in the macros and in the mod wheel that you can play around and make your production more about the creativity and less about the sound design and the intricacy of the sound design. But, I hope that you liked it. This is Leo Loretti from Abstract Music Labs signing off. Ciao.

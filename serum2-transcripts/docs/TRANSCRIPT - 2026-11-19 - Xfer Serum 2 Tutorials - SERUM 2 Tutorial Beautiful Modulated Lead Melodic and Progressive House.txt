@@ -1,0 +1,58 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 19 - SERUM 2 Tutorial | Beautiful Modulated Lead | Melodic and Progressive House
+Source: https://www.youtube.com/watch?v=8hJ1TBEGLmw
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is Lola Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today we're creating a lead called Crystal and it sounds like this. If you want to check the MIDI and listen to the original. If you like this preset, you can get it over here in the description below in the melodic progressive pack for Serum 2 that it's available at Production Music Live's website. But now, let's get started with the sound design and let's get started with this tutorial.
+
+We're going to initialize the sound. That's pretty much it. No effects in it. And that's pretty much it. Just a raw Serum initial preset.
+
+And that's it. So, let's go. We're going to start by selecting here a Serum 2 digital dying saw. Where is a dying saw? And we're going to leave it pretty much as it is.
+
+Now, we're going to go into the LFOs because that's where the fun is. So, LFO retrig. We're going to leave this to two bars. And we're going to leave this as a triangle. We're going to put this into the wavetable position.
+
+And you can see how it already kind of changes the wave table a little bit. Now, LFO2, same thing. Retrigue. We're going to leave this now to bar. And we're going to put this here in the fine, but just a tiny bit.
+
+Something like this. In addition to that LFO3, we're going to select a chaos Laurens free with this one 18. And we're going to put the X in the fine as well, but a little bit more. Something like this. But we're using LFO 4 to modulate LFO3.
+
+I don't want this to go all the time. I just want in certain moments where we're going to put LFO4 as an auxiliary source of the LFO3. Meaning when this is at 100%, this modulation is at 100%. When this is at 0%, this is at 0% as well. And what are we going to do here?
+
+For the first bars, we're not going to do anything. You can hold shift and you can do something like this. And that's what we have. So, we only have this LFO3 active when this is up like this. Cool.
+
+And how do we shape LFO4? Retrigue as well. We're going to leave this shape 1/2. And if you want to listen, it doesn't even play it. Why?
+
+Because you have to go into the envelope one. And in the envelope one, we're going to change a bit of the release to something really big. And now we see the change. There you go. Now, in addition, we're going to pick and put this a little bit down.
+
+And that's it. Can you see how this modulates further? Now, it modulates a little bit. Now, in addition to that, we're also going to go into the noise. We're going to select a white noise.
+
+And we want to select here the filter to be a little bit up. The stereo to be a little bit up. So, this sound becomes a bit more stereo as well, but the level all the way down. Why? Because we're going to modulate this with envelope 3 as we're doing right now.
+
+Just put it a little bit less, which is what we want. Now, sustain all the way down. So, it's a plucky noise feeling. Just so you can listen. We're going to put the decay a lot down.
+
+Somewhere like this, maybe even less. This handle a little bit down as well. Pretty much in the same line as M3 and M7, macro 3, macro 7. And that's pretty much it with the envelope number three. Now, we're going to again activate oscillator A and filter one.
+
+We're going to select an MG ladder. MG ladder as you can see here. And we're going to select here A, B, and C. But there's nothing in B and C. So we don't need to select anything there.
+
+So just A. In addition, we're going to put the cutff a bit down. And this is really modulated. So envelope 2 to the rescue. We're going to put this a little bit there.
+
+Just a tiny bit. We're also putting the velocity to modulate this a little bit more here. Now, but now let's change envelope 2. Envelope 2, we're going to have to put the sustain down. We're going to have to put the release a bit up.
+
+And also the decay a bit up as well. But handle again a bit down. And also the attack a bit up as well. So it's not aum pum. It's more like a one.
+
+Really nice sound. Now, if we go into the effects section, and in the effects, we're going to start with an EQ, a low cut, really low end, just to take any low-end frequencies that we don't want. delay 1/8 ping pong and dot feedback up. This is pretty much how long the delay is going to last. And now the frequency because we don't want all the frequencies in this delay.
+
+So frequency up, Q a bit down. Kind of taking the low end out and a bit less of this delay. Now chorus. We're going to pick the rate and put it a bit down. We're going to put the depth a bit down as well.
+
+So you can see how it's a bit tighter this way. We're going to put the low pass filter all the way up. and the wet a bit down as well, just so you can listen to the effect. This opens up the sound a little bit in terms of width. Now, convolve.
+
+This is to convolve your sound with something else. Essentially, you're going to not merge, but it's kind of merging as well. Now we're going to go and select here a long eight hall 8s verb hall B. We're going to select 38%. A lot more.
+
+But we're going to change the impulse response gain. We're going to change the impulse response of this one. We're just going to make it a bit louder. You can see how this makes it really big. Less of the tone of the convolve and take the minimum phase.
+
+You can see how this kind of dims a little bit as well. Now to finish everything, we're going to go and select an equalizer. High cut frequency Q a bit down somewhere like this. And frequency up. Yeah, pretty much somewhere there.
+
+I still feel that this sound could be a bit richer. And we can add a little bit of richness by adding saturation. We can do this either here in the effects, but we can also do this in the filter. So, we can just go here, add a bit of drive. And that's about it.
+
+But the coolest thing about the original preset is that you can go and you can check that there's a lot of macros and a lot of mod wheels as well that you can essentially modulate during your track. And that's what make this preset really nice. And if you want to get it, you can get it over here in the description below. This is Leo already from Abstract Music Lab signing off. But let's listen to this last time.
+
+really cool sound and again get it over here in the description below. This is Little Ready from Abstract Music Lab signing off.

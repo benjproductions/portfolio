@@ -1,0 +1,50 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 28 - SERUM 2 Tutorial | Rolling Techno Bass | Space 92, Joyhauser, Amelie Lens
+Source: https://www.youtube.com/watch?v=GmRL_hN9P3o
+Transcript: Captions pulled 2026-11-19
+
+>> Hey friend, this is Lior ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm creating a bass called counter and it sounds like this. Without side chain. With the midi just a random 16th note. As you can see 16th.
+
+Now if you want to listen to this in context with side chain. >> >> It bounces a bit. >> >> Really nice sound that you can get it over here in the description below in the serum two techno presets volume two that's available at Production Music Live's website which you can find over here in the description below. But now let's get started with serum and we're going to deactivate the shaper box. >> >> This is going to be a saw wave as it is.
+
+We're just going to put this to here to minus one. Phase we're going to go and put it somewhere like this. And we're going to make the randomness all the way down so it always plays the same thing. Now unison. To make it wider.
+
+But we're going to also change the width. So you can make this even though it makes it wider you're going to make it a little bit less wide. As you can listen if you can even make it mono. Now we're going to go and change the detune just so it's not so further apart this width. And you can see how the notes now sound a bit closer together.
+
+Blend as it is but we're going to leave the level a little bit down. Somewhere like this. Now oscillator B basic shapes. >> >> Minus one. And we're going to use the wave table number seven.
+
+A square a square sawish kind of wave table. Phase up. And again we're going to pick the randomness and put it all the way down because we want the bass to be constant. So unison up. >> >> And again with down.
+
+And again the detune can be a lot down as well. And you can see how the sound even though it's stereo it's really focused in the mono center. Even though it's stereo it's really focused in the center. A little bit down here. Now envelope one we're going to go and modulate this.
+
+We have to make this into a pluck so sustain all the way down. Now maybe not all the way down. Now release a bit up. And you can see how the note now has a little bit of tail and you can see how there is a shape in the release. Can you see how it's not flat this is really further down.
+
+And the same thing with this knob over here it's exactly in this line. But we're going to make this smaller. And a little bit less attack. That's about it. Now filter number one we're going to select A and B.
+
+MG 24. And we're going to put the cut off a lot down which is almost going to fade the sound and you barely listen to anything. Why are we doing this? Because we're going to use envelope two to modulate this. So envelope two and we're going to do a modulation to something like this.
+
+Before we do anything to envelope two let's continue here in the filter. We're going to pick the resonance a bit up. >> >> And you can see how this boosts the mid and a bit of drive which introduces a bit of distortion after the filter. Now we're going to go here into the envelope number two. Attack all the way down.
+
+Decay like really long. Something like this like really really long but the sustain almost everything down. And a bit more release. >> >> And you can see how this makes a change right? Without the release.
+
+And with the release. >> >> Because the release now follows this over here and it has time to whenever the note stops it has time to fade down. >> >> Now we're going to go here into the matrix and we're going to go and velocity put it over here. We're going to make this really big. So essentially the harder we press we're going to affect the global amp.
+
+>> >> I'm going to make this bipolar. >> >> So you can see that the harder we press the more loudness we have. >> >> But this is still really filtered and we're going to make here a note. >> >> Essentially the note that we play which is this over here. We're going to use it over here in the cut off as well.
+
+The higher we press the more cut off we have but we're going to change this to be something a little bit like this. >> >> Yeah something like this. >> >> Now let's go to filter. We're going to go here distortion. We're going to select here overdrive.
+
+>> >> A bit more. But a bit less mix. >> >> And what we're going to do here in the overdrive we're going to select here pre. >> >> Somewhere like this. And we're going to boost the frequency a bit down.
+
+Actually dip the frequency. Also dip this a little bit as well. >> >> And you can see how this gives a bit more mids to the sound which is what we wanted with this overdrive. It distorts the sound but also giving a bit more focus on the mids which is what we wanted. EQ.
+
+>> >> We're going to low cut to make sure that this is mainly a mid bass. >> >> Something like this. That's good enough and we're also going to boost a bit of the >> >> low mids. Something over here. Something like this.
+
+But >> >> Yeah like this. >> >> Without it. Less low end more mids. Now we're also going to use another EQ. Because we can't do two bells.
+
+And here we're going to go here into the lower frequencies somewhere like this. >> >> And lower this a lot. Even intensifying just getting one specific frequency. >> >> Now just to warm up the sound a little bit a bit of compression. >> >> We can put this a bit down.
+
+Compress it a bit further but we're going to boost a bit of the gain as well. >> >> To give it back. Attack a bit slower. Faster actually because we want to compress every transient and we also want to release it as soon as possible. >> >> Now to make sure that this is mono just using a utility.
+
+Mono bass and frequency a bit up. >> >> Now to finish everything as it is we're just going to go here boost the loudness a bit. >> >> Somewhere like this. Side chain. >> >> And a really nice mid bass for your songs.
+
+But there's one cool thing about the original preset that if you get it you can find all those macros and the mod wheel that you can modulate everything and make your productions more about the creativity than creating these modulations. And you can get it over here in the description below. This is Lior ready from Abstract Music Lab signing off. Ciao.

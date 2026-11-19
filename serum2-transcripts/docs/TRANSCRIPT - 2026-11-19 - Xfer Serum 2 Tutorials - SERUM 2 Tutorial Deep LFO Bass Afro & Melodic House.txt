@@ -1,0 +1,52 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 33 - SERUM 2 Tutorial | Deep LFO Bass | Afro & Melodic House
+Source: https://www.youtube.com/watch?v=VINNcdpX0g0
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is L already from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm recreating a bass called Low Rider and it sounds like this if you want to check the MIDI. But this bass has something really cool that you can play here with the automation. Oh, if you want to listen to that in context, creating that really cool LFO in the sound that It's really, really, really nice. And if you want to get this, you can get it over here in the description below in the Serum 2 Afro House presets that it's available at Production Music Live website.
+
+But now, let's get started with this preset. And let's get started with the sound design. We're going to initialize the sound. And it sounds like this. And the first thing that we want to do is we're going to go here in the mono.
+
+And we're also going to choose the portimeamental here. So instead of being b, we're going to be now Listen to this. See how the notes are merging to the other ones. This is what the pertamantal does. Now we're going to go here and in the oscillator a just already start putting the part the unison up.
+
+So we have more voices now, but we're going to use the tune to determine how spread they are in the spectrum. This is going to make them really spread apart. This is going to make them a little bit less spread apart and level a bit down. And that's about it. Now, we're also going to go here and select a spectral reassess number two.
+
+Two voices of unison. And notice how when you use two voices, you don't have anything in the center. Three, you have this one voice in the center. Four, you have two voices which are technically in the center. And two, you don't have anything.
+
+So, this is purely stereo, but not so much the tune. And that's about it. Now, oscillator 3, we're going to go and select a digital disatt. So, we put it an octave higher. unison as it is but level a bit down so it has a hint of a sound.
+
+Now we're also going to select here in Serum 2 noises we're going to go and select this stretched vinyl and you hear this vinyl sounds but we're going to put the level to somewhere over here and that's about it. Now, in addition, we're also going to select here a sub minus one. Without it, you can see how this adds depth to the sound. So, let's move into the envelope so we can modulate the sound. The envelope one is the one that modulates all the sound.
+
+So, we're going to go here and select a bit more release. Why don't we hear that much change? Why don't we hear the release going on top of the other notes? Because we have the mono activated. Listen without it.
+
+I'm just going to make it bigger. See how one note is getting on top of the other. But with the mono, we don't have that. So why even use it for the last note? Whenever we stop playing, this is going to go down.
+
+Filter. Let's go into the filter. We're going to select here an MG load 24 S A BC. And the noise is going to remain there. So, you can hear that kind of crumbling a bit higher.
+
+We're going to keep the resonance pretty much as it is, just a tiny bit down. A bit of drive to give a little bit of saturation in the sound. Now, we're going to go here and select an LFO one. We're going to use this as retrig, and we're going to put this as hertz. And put this all the way down to zero hertz.
+
+Now, we're going to put this over here, and we're going to make this around something like this. We're also going to put the smoothing all the way up, but you can see how this doesn't change. You can see that it doesn't do anything. So, what are we doing? Pretty much, we're going to go and use a macro.
+
+Remember that we had a macro. We're going to put this macro in the rate. So now, still not yet because we have to go into the macro and put this smoothing all the way down but backwards to make it smoother as we stop using the macro. And that's about it. Now, we're going to go into the effects section.
+
+And here, we're going to start by using a reverb. And we're going to choose a Nitro reverb. But what is a Nitro reverb? Well, a Nitro reverb is a new mode introduced in Serum 2. It has sort of a shimmerlike, more airy kind of vibe into a reverb, but it's still a more modern kind of reverb comparing to the other three ones.
+
+And we're going to get started by picking the low cut and putting a bit up so we don't have any low end in the reverb. High end as it is, just a tiny bit down. Size a bit down. And we're going to go and add a lot more feedback over here. Somewhere over here.
+
+This is going to feed more stuff into the reverb. But the diffusion, we're going to go and put it a bit down. The further down you go with the diffusion, the more smeary, the more grainy it sounds like. Let's pick the wet and put it a lot up. >> >> just so you can listen.
+
+This is more of a one thing. And now we're just going to go here and put the rate down and the depth also a bit down. But what are these as well? These are essentially just chorus. So the last step, last dry wet into the chorus and it just changes a little bit in the lower pace as well.
+
+Now we're going to go and choose convolve because we want to make the sound convolve into something else. We essentially just want to blend the sound with something else. Listen to it how it sounds when we go here, select a factory. We're going to go to short and we're going to go into hypert one. Mix a bit up.
+
+>> >> We're going to go here in the IR gain. See how it brings a bit of meerie sounds, a little bit high-end sounds. We're just making it a little bit more metallic in a way. Yeah. Now, distortion.
+
+Soft clip distortion. >> >> a bit of drive, but not so much wet. Good. Now, we're also going to select a chorus. And a chorus is just pretty much is going to spread the sounds, making it a bit wider.
+
+So, let's get started. Rate. So, you can see how this wobbles a lot. Now, putting this a bit down. It doesn't wobble too much.
+
+The depth really fast. And you can see how this becomes a little bit more united with the sound instead of being a little bit bit too scattered. A little bit more feedback. Now, also increasing the low pass filter. Let a little bit more low end go through.
+
+But this is just for you to feel what we're doing. And just putting a bit down. And that's about it with the sound. Now we can have the macro. And the cool thing about the original preset is that it has a lot of other macros that you can play around with.
+
+So if you want to get it, you can get it over here in the description below. This is Leo already from Abstract Music Lab signing off. And again, if you want to check the MIDI just one last time

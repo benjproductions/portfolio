@@ -1,0 +1,34 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 40 - Serum 2 Tutorial | The Pluck That Keeps Your Track Moving | Melodic House, Techno
+Source: https://www.youtube.com/watch?v=s5vH-g49EyM
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is La Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm recreating a plug called Dusclick and it sounds like this. If you want to listen to it in context, well, let's listen in solo. Now, let's listen to it in context without the side chain. So, let's go do this.
+
+And let's deactivate this one. Maybe a bit higher. Really nice sound that you can use either as a front element or just as a background element. As a background works really nicely as well. And if you liked it, you can get it over here in the description below in the CM2 Afro House presets that you can find at Production Music Lives website.
+
+But now, let's get started with this tutorial and let's initialize the sound. Let's get started with this. We're going to deactivate the shaper box. We're going to deactivate the shape box over here as well. And we're going to use here a granular.
+
+So, in a granular, we're going to go here into a bass. And we're also going to use a fat rich, where is it? Fat rich honk. We barely listen to anything. We're going to put the level all the way up.
+
+And we're going to go here and pick this line and put it somewhere over here, kind of in the middle of the C and the T. That's about it. Now, we also want to select here a Serum 2 Belelladana, which is a digital table minus one. And we're going to use the wave table position a little bit less wide loudness here. somewhere over here.
+
+And that's about it. Now, lastly, we're going to select here a digital FM freak wave table somewhere like this. Yeah. And level just complementing it and not actually doing much to be honest. Now, noise AC hum one.
+
+We're going to go and select here the level to be a little bit quieter. The pitch is going to go a bit higher, which makes it disappear a little bit. But we're also going to pick the fine and change it a little bit just so you can listen without this. It just changes the pitch of the everything. Well, this changes the pitch of the noise.
+
+Now, in addition to that, we're going to go here in envelope one. We're going to start with a little bit of attack because we want this sound to be one. And we're going to pick this handle, put it somewhere like this. Okay. Now, in addition, sustain all the way up.
+
+And we're just going to add a little bit of release. This handle has to be pretty much in this line. >> >> Now filter MG12 ABC higher. Somewhere like this. Now in addition, we're also going to pick resonance up.
+
+But because we're putting the resonance up, this is making the sound less prominent. So we're going to boost it a bit with the drive. And you can see how this gives a boost because this sound may be a bit too quiet. We're going to go here with the main and put it a bit higher. You're not going to hear any difference in the video.
+
+But let's continue. Effects. We're going to go here in a delay. Ping normal 18 dot 68. We're going to pick the queue, put it all the way down, and we're going to put this here.
+
+More like this, tiny bit up. And to finish everything, just a reverb plate. More low cut here, but less high cut, bigger size to make it bigger. You can see how it just becomes a lot bigger. A bit of dampening.
+
+You can see how we tame the high-end frequencies when we increase the dampening the width a bit up. Make it a bit bigger. Just a bit of mix. We turn on the shaper box. We activate the MIDI.
+
+And that's about it. And you might ask me, Leo, but why should I buy the preset if I already have the sound? Well, in the original preset, you have a lot more macros that you can play around with. And this just makes your creation process a lot easier because it's less about the sound design and more about your ideas and about making your songs better. So all here to play around.
+
+If you want to get it, you can get it over here in the description below. This is Little Ready from Abstract Music Lab signing off. Don't.

@@ -1,0 +1,26 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 34 - SERUM 2 Tutorial | Cinematic & Nostalgic Lead | Melodic House & Techno
+Source: https://www.youtube.com/watch?v=Cjxlife3QqU
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is Lar Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm recreating a plug called Hall and it sounds like this. Really nice for breakdown if you want to listen to it in a breakdown. And if you want to get this preset, you can get it over here in the description below in the Serum 2 melodic progressive pack that it's available at Production Music Live. But now, let's get started with the sound design.
+
+We're going to initialize Serum. And here we go. And this is how it sounds like. You can see how this is pretty much just a sustain sound. So, we're going to have to activate the arp.
+
+We're going to go to 116th, but chord. Cool. Now, we're going to go back here and going to go into default shapes. oscillator as it is, unison as it is, level as is, pretty much as it is. What we're going to do here though is we're going to select a free triangle LFO, and we're going to hook this up with the panning a little bit.
+
+Something like this, bipolar manner, but two bars. So, it goes left and right. And with the second LFO, what we're going to do is we're going to pick this and put this to bar. We're going to hook this up with the fine a lot less and free. Now we're going to go into the noise.
+
+Select noise ar white. put this to zero. Now, envelope 2, we're going to hook this up into the arp white and we're going to modulate this to around something like this. But we want this to be a pluck as well. So, sustain all the way down and decay really short just so you can listen to it.
+
+Now envelope one. Sustain a bit down. More of a plucky feeling. Release up. Now we're also making the decay a bit quieter.
+
+This is a little bit smaller. Tiny bit smaller. Now let's go into the filter. Filter. MG24, just A.
+
+And we're going to put this quite up, but we're modulating this with envelope one, quite drastically. Now, in addition, we're going to go into the effects, and we're going to start by selecting a distortion. Quite aggressive with it. but the mix a bit down. Now, in addition, we're going to select the delay ping pong 1/4 more feed frequency a bit up and Q down and more wet.
+
+Now reverb whole reverb without low end higher decay. So we stay with a little bit longer of this reverb and more wet. We get more out of this and a compressor. But the compressor is going to go quite up. You see there it barely does any work.
+
+Why leave it there? In case we activate anything, for example, we can go and hook this to the cutff. So now it kind of merges into a more saw toy kind of sound. If you want to make this sound a bit tighter and a bit more bass here, what you can also do is pick the resonance here. Put it all the way down and you have a tighter sound than before.
+
+Really cool sound that you can find over here in the description below. And if you like this video, you can hit the like button. This is Leo Ready from Abstract Music Lab signing off.

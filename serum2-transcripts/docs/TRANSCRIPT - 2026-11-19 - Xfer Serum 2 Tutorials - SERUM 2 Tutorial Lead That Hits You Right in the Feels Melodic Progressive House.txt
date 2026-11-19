@@ -1,0 +1,58 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 22 - SERUM 2 Tutorial | Lead That Hits You Right in the Feels | Melodic Progressive House
+Source: https://www.youtube.com/watch?v=pdjUz0hS-p8
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is L. Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm recreating a lead called Movie Tapes and it sounds like this. If you want to listen to it in solo without any side chain and looking at the MIDI, you can play around with the mod wheel. Now, if you want to listen to this in context with side chain, really cool sound that you can get over here in the Serum two pack called melodic progressive that you can find at production music live website.
+
+But now let's initialize this preset. Let's get rid of the shaper box and let's get started with this tutorial. So initial sound, we're just going to go and put the level a bit up. And that's pretty much it. Now oscillator B, what we're also going to do here, we're going to first put this a bit duned.
+
+You see how this already creates some dune, but we're also throwing a bit of unison. Last detune blend as it is. Now, level is going to go a bit down and we're going to get a bit of FM here, but FM from the noise. But really, yeah, we're going to get FM from the noise. We're going to select here an S2 noises.
+
+We're going to select a vinyl crack and we're going to put the noise all the way down to zero. But now listen to this. See how it's there's something there. A bit of highp pass filtering. So highp pass filtering.
+
+And we're going to put the pan here a little bit to the left. Why? Because oscillator 3, oscillator C, we're going to do the opposite. We're going to put this a little bit to the right. A bit too loud this with this one.
+
+So, just making this a bit quieter. Also, a bit of dune in the fine here. A bit of unison as well. Last detune with this one. Same thing.
+
+FM from the noise. And also we're going to select a highp pass filter as well. So far so good. LFO1 triangle free BPM rate 118th. And we're going to select this first to the fine of a LFO two.
+
+We're going to select 1/4 free as well as a triangle as well. And this is going to go in the final B bipolar out shift. Same thing with oscillator C. Bipolar out shift. 1/4 for this one.
+
+Now we're going to go into the envelope. And in the envelope, just a bit more release. The key of this sound comes here. Filter MG18. We're going to select A, B, and C.
+
+and pretty much mute this sound with the cutoff. Why? We're going to do this with envelope, too. So, let's modulate this already. Pretty much all the way.
+
+We're making this into a pluck. Really long pluck and with a lot of release. But here's the cool thing. We're going to use the velocity to help us. This is going to be the auxiliary source for the envelope, too.
+
+So, pretty much the stronger we press, the more we get out of this envelope, too. See how stronger notes get more out of it. But this is still a bit too little. What we're going to do here is click over here, double click. We're going to pick this and put it a bit up.
+
+So far so good. Now, let's go here into filter bus one. We're going to go and add a bit of bus effects here. And also to bus two. Bus one, we're going to go and first add a bit of distortion here.
+
+How much of distortion? All the way. All the way. This is going to be really loud on your speakers. So, you're going to make this a lot quieter.
+
+But this adds a bit of drive in the sound. Again, equalizer just to tame a little bit of everything. So, all the way down. All the way down. Something over here.
+
+Something down here. Now bus two. Where we're going to do this is this is going to be pretty much a delay bus. So delay all the way up a bit more. Ping pong.
+
+And again, we're going to select an equalizer all the way down. Awesome. Now, lastly, we're going to go here in the main. Everything in the bus one and the bus two are being fed to the main. So now in the main we're going to start by selecting a chorus depth a bit down low pass all the way up and a bit less over here.
+
+A bit of distortion. You can see how this granulates the sound a bit again. Distorts the sound a bit. This adds a bit of chorus. makes it the sound a bit wider a little bit just so you can listen all the way.
+
+That's what we're adding to the sound. Distortion post frequency up. A lot less of the Q. Bit more drive but less wet. And of course all the way up just so we can listen.
+
+We don't want that much distortion here. So now reverb to add a little bit of tail to the sound. But in this reverb, we're going to select here a vintage reverb. We're going to put the wet a bit up and a lot of tweaking here. So, a lot less of low end here.
+
+A lot less of high end here. Size a bit up. Nothing in the pre- delay. We're going to go and in the er size, we're going to make this a little bit smaller. But any the ER size, we're going to make this a bit smaller.
+
+This is the size of the early reflections pretty much. Now decay, bit up, damping a bit down. So this keeps the higher frequencies a bit up. Now diffusion a bit down on the A. This kind of mirrors the sound a little bit.
+
+And now the B a bit down as well. With B down, we make the tail a little bit more sparse, a little bit more grainy essentially. Nothing here in the chorus. And that's it. Now equalizer.
+
+We're going to select two equalizers. We're going to actually going to use two high shelves. So high shelf number one, just boost a little bit. High shelf number two. Maybe a bit off here.
+
+Second, we're going to add a bit of convolve. Just giving a little bit more of a reverb tail to this as well. Long deep loop. Going to change a bit of the tone here and add a bit of wet. You can see how this makes the sound a bit more reverbby.
+
+Essentially, that's what we're doing with this one. Pretty much using a whole kind of shape to convolve with the sound that we created. Now, compressor Again, in case we have something that goes beyond this level, just raising a bit of the level as well. Now in context, if you want to listen to that and listen with the shaker box. And the cool thing about the original preset is that it has a lot of macros and a mod wheel that you can play around with as well.
+
+So if you want to get it, you can get over here in the description below. This is Leo already from Abstract Music Lab signing off.

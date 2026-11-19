@@ -1,0 +1,54 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 24 - Serum 2 | Beautiful Pluck and Bass | Melodic, Progressive House
+Source: https://www.youtube.com/watch?v=E5AIcWnlkrQ
+Transcript: Captions pulled 2026-11-19
+
+Hey friend, this is Lil already from Abstract Music Lab and today I'm back in the sound design channel. Today I'm recreating a plug called Splitting Time and you can see the MIDI over here if you want to listen to it in solo. It also has a bass sound as well built into it. in context. really nice sound that you can find over here in the description below in the melodic progressive pack for CM2 that it's available at production music live website.
+
+But now let's get started with this tutorial and let's initialize the sound. This is what we have at this moment. And if you listen, it's just the raw sound from Serum. And now we're going to go back into Serum to recreate essentially this preset. We're going to get started here by selecting here a digital FM piano sound.
+
+And we're going to start by putting here a band minus and tweaking the sound. You see how it makes the sound a little bit more sauty. In addition, we're going to go and add a highp pass filter. something a little bit like this. Level as it is, panning as it is.
+
+And now we're going to go into the matrix right away. And in the matrix, we're going to go and select here note random one. And we're going to go into oscillator A and put this into the pan into a bipolar manner. So you can see that it goes back and forth just a little bit. So you can see how I just I'm going to intensify just so you can listen.
+
+See how it goes. If you want to see more tool tips like this, you can just go here in the global and activate. But for now, we're going to deactivate everything. So now we're going to go here into oscillator B. And in oscillator B, we're going to select again.
+
+And in oscillator B, we're going to select again a digital FM piano. Again, we're going to go here into the band minus and add this to something like this. But the level of this one is going to go all the way down because we're going to modulate the level with this one with envelope 3. So, let's put envelope 3 over here. And we're going to put it a little bit less, but we're going to make this into a plug.
+
+So sustain all the way down. Decay a little little little bit down. But here we're going to have to leave this pretty much as it is in this line. Release a little bit higher. Now LFO1, we're going to go here and select the chaos rosler free as it is 1/8.
+
+But we're going to go here into X and put this in define. not define just the modulation and do the same thing with FM piano 2. But we're going to do something different because I want this to be the baseline and I want this to be the high-end frequency. How can we do this? We can go here in the oscillator voice mappings and we can go and select the oscillator B and say this only plays up to somewhere over here.
+
+Maybe like this. And now this. So essentially the oscillator B is the only one playing this because you can see that this corresponds to oscillator B which is where we're playing here in the second one and the oscillator one we're just playing this one. See how it's different? Really cool.
+
+Right now in addition to that we're going to go here in the envelope number one. And in envelope number one we're going to go and increase a little bit of the release. pretty much everything as it is. Now we're going to go into the noise. We're going to select analog organic noise.
+
+This is going to go really quiet. Now filter. We're going to select MG12, which is that one. Cut off all the way down pretty much as it is. And you can see how it already filters a lot of the sounds.
+
+We're only selecting A, nothing else. We're going to leave resonance, drive, and fat as it is. But now, envelope 2, we're going to modulate this a little bit less. somewhere over here. But let's make it into a pluck.
+
+So to make it into a pluck, sustain all the way down. Decay a bit down as well. And release a little bit higher. Maybe more. Good.
+
+In addition to that velocity, just a tiny bit up the velocity. So now this is the filter for the oscillator A, which is the high-end frequency of this. Now we're going to do the same thing for oscillator B, but in the second filter. So B, this is only going to go here. We're going to go a lot down with this one.
+
+We don't listen to it because we still haven't played the bass. And now we're going to go here in envelope three and put a little bit here as well. But we're going to go back into the matrix. We're going to pick this band over here and put it a little bit higher. Now filter one.
+
+We're going to go and select the bus over here and put it a lot up somewhere over here. Now, let's go into the effects and let's get started with bus number one. Delay 100% with this delay. Ping pong 132. A lot more feedback.
+
+Frequency a bit up. Q a bit down. We're going to select another delay. 1/4 ping pong as well. And that's it for now.
+
+Now filter MG6 higher with a cutff. And that's it for now. Now we're going to go into the main effects and we're going to start by selecting here a distortion. Let's go and select post. We're going to use tube as well, but we don't want it to filter.
+
+So somewhere like this. You go a bit down. Drive a bit up. Wet a bit down. Notice the difference.
+
+This is just gave me a little bit of character to the sound. Just a little bit of distortion to the sound. Now we're going to get started with an EQ. So start with the bell curve. Just in this frequency here.
+
+Just a little bit less here. Maybe something like this. And last Q as well. High shelf all the way down. But just the high end somewhere like this.
+
+Lastly, just a compressor. And we're going to compress it a little bit. really fast attack. You can see how it compresses just the tip of it. A really slow release here.
+
+You can see how it compresses a lot of the sound. Just a tiny bit, but a lot. And to finish everything, a boost in loudness. Now, if you want a bit more reverb out of this or a bit more delay, you can just go into the filter, boost a little bit here. But because it gets a bit crowded, normally I go here in the delay and just make it a little bit tighter as well, more in the high end.
+
+And you can always play around with the cut off as well if you want to. But the coolest thing about the original preset is that it has a lot of macros that you can play around with. It has a mod wheel attached to something as well that you can play around with as well. And it's awesome to create a lot of modulations in your songs. If you like the preset, you can get it over here in the description below.
+
+This is Leo Ready from Abstract Music Lab signing off.

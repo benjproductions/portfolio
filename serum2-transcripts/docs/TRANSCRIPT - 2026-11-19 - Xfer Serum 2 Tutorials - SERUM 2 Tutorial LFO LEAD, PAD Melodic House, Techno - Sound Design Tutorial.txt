@@ -1,0 +1,46 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 02 - SERUM 2 Tutorial | LFO LEAD, PAD | Melodic House, Techno - Sound Design Tutorial
+Source: https://www.youtube.com/watch?v=OdInZtaxqGY
+Transcript: Captions pulled 2026-11-19
+
+Hi, I'm Fran from Production Music Live today with the sound design channel and we're making an LFO pad in Serum 2. We have this sound here and you can find it linked in the description as well. And I'm setting up a new MIDI track and we are opening up another instance of Serum and setting that one to the init patch so you can follow along. This is our source sound and we can actually throw on a filter that's so it's a bit less nasty. Okay.
+
+And the first one in oscillator A we want to select um you know from analog we want to select the pulse wave Juno and we want to pick up five voices wave table position to around 46 dtuning down to 11 or 11 that is. And then we go over to oscillator B. Activate that one as well. And also send it through the filter one here. And now go to the digital shapes and pick up FFT animal one.
+
+And now play around with the wave table position and keep it at 104 something like that. and bring unison up to seven voices and the D-tuning down here as well to like 14 or that is4 and then we are bringing the level down to halfway and we're bringing it an octave up. Okay. And then we have this third oscillator which is new here in serum 2 and we can set it to granular mode for example and then pick out samples from a factory library. So let's say we are picking a flute and this one is now in oneshot mode this flute sample.
+
+And we can actually also put a forward loop and it sounds like this. And let's bring an octave up. Let's also run it through this filter here. And let's make it a bit louder. Bring the level up to like 84ish.
+
+Okay. And let's take a look at our LFOs down here. We have LFO1. Set this one to three. And also set it to hertz.
+
+and apply it on the panning of oscillator A like this, but bring it down to only be 50% applied. And do the same thing for oscillator B and turn it all the way through so it's inverted and it's kind of like minus 50%. So now this is panning these oscillators around, but the rate is too fast. So let's bring the rate down. So 0.5 6 something like that.
+
+Okay. So we are panning this around your ears. So let's take another LFO and also set that one to three and move this shape around to look somewhat like like this downward slide here. And also set it to hertz and throw it onto our filter cutoff here. But this one needs to come down now.
+
+So the bass frequency of the filter is 150ish and we open up this applied modulation like 20 19 20% something like that. So let's listen in. Okay, let's bring the rate down on this one to like 2.5. So they are all going through here getting filtered with this LFO rate. Okay, let's take a look at our envelopes here.
+
+Envelope one. Increase the release time to like 450 and lengthen our decay time to like 139. Go to envelope number two. Increase the decay to like 1.9 seconds right here. And also increase the release to like 2.2 seconds.
+
+Something like that. And bring the sustain down. So we have this double shape here where it slides down a bit here. And then it keeps sliding down. Bring attack up ever so slightly to 1.4.
+
+Something like that. And now let's drag this envelope onto this right here. So this envelope triggers the rate of LFO3. That is that's the one we used here. So make sure this is on LFO3.
+
+And now let's bring this down. So it's 31% applied here. So we're starting to get movement. We need something else. So let's go over to envelope three here and do a crazy long attack time or you know 2 seconds at least 2 point something seconds and then bring sustain all the way down and shorten the release time as well to something like 7.
+
+So we have this opening up shape closing down again and now we are throwing that one onto the filter cutoff as well. So, I'm dragging this over here, applying this on the filter cutoff, and now I'm also bringing down the application of the entire thing to like uh 19%. Now that we have it all filtered, we can bring the main output up a bit to like 75%. And we can see all the work we already did here in our nice matrix overview, which in Serum 2, by the way, can be toggled to be bigger and smaller. And the same thing is also true for the effects tab, which is still empty here.
+
+So, let's throw in a default delay in here. So, there's a bit of delay going on. And let's also throw in a de default reverb. Let's set this one to whole. And just bring the mix up a bit so we have a bit more room on this entire sound like 41%.
+
+And now you can actually put all of this into a low high splitter. Let's just do this for fun. And so I want to keep the lows clean and just apply effects on the highs. So I'm clicking into this area. And I'm actually taking both these effects and just dropping them in.
+
+And what I did now is I'm saving myself the work to sort of create another low cut EQ below everything. I'm just taking this splitter saying the lows are staying unaffected and inside the splitter I have delay and reverb and now I'm setting the frequency where this thing you know stops working on the delay and uh applying the reverb and I'm setting that cut off frequency to 381. So this is kind of like a low cut at 381 on those two effects. You can also remove the splitter and then and that's another nice effect by the way. You can remove this effects module al together.
+
+And if you're saying, "Hey, well, I didn't want that." Just go back, you know, and now you have the undo button there. So, you can also see two effects in the highs, zero effects in the lows. That's how you always know something's going on here. And at the end, let's put in another delay right now that's living outside. And we want to apply a pingpong delay.
+
+You can see that here down there outside below everything. Ping-pong delay. And let's take it to an eighth here in the second one. And if we compare both sounds, we have a bit more low end here. So, let's bring in an overall low cut EQ down below everything here.
+
+So, this one is uh below the entire chain. And now we are going in. We're saying, hey, um, we want this low cut and we want the Q to come down and we want this to be at around 390 or something. So comparing that again. Okay, very nice.
+
+Now it's really about the openness of the filter here. Okay, cool. So, I hope you enjoyed this little video. Feel free to check the link in the description to Serum 2 patches like this one is included and other ones as well. We'll have more dedicated Serum 2 content coming up soon.
+
+Leave a comment below what you want to see next. Subscribe to this channel and I hope to see you soon.

@@ -1,0 +1,40 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 27 - Serum 2 Tutorial | Bittersweet Pluck for Melodic, Deep and Progressive House
+Source: https://www.youtube.com/watch?v=QWLuHDbBVok
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is LA Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm creating a pluck called Tiny Voices and it sounds like this. If you want to listen to it in solo without any side chain as well and any EQs as well with the MIDI now with a little bit of side chain and EQ in context Guys, if you like this sound, you can get it over here in the description below in the melodic progressive pack that is available for Serum 2 at Production Music Live's website. But now, let's get started with this sound. We're going to initialize Serum.
+
+We're going to deactivate the shape box and the EQ. And we're only going to listen to the raw sound, which sounds like this. And we're going to go here into Serum 2 wave tables. We're going to go into analog fading, analog octave fading, which is this one. Pretty similar.
+
+The difference is that it has a lot of wave table positions over here, different than the saw to which is normal. So now we're also going to go here. We're not going to do anything here. Just LFO1. We're going to select a KO's Lawrence free 1/2.
+
+And we're going to put this in the fine. The X, not the Y, the X, but a lot less. And let's select mono as well. Why are we selecting mono? Because in the envelope, we're going to put a lot of release here.
+
+And we don't want the notes to get on top of the others. So, sustain down, decay also a bit down. And that's about it. Filter one. We're going to select a digital.
+
+We're going to select an MG ladder. And we're going to select a noise. But why? Since we don't have any noise, we're going to add here an arp white and put the level a bit up. Somewhere like this.
+
+Now envelope 2 is going to modulate this filter. But we also have to put the cut off a bit somewhere over here. But modulation, we also have to do a little bit of modulation. Something like this. But first, let's tweak envelope 2.
+
+So envelope 2 sustain all the way down. Release up. Now we're also going to put here the decay a lot down. And we're going to modulate the intensity of the envelope 2 with the velocity. What does that mean?
+
+Matrix. We're going to go here envelope 2. And we're going to use the velocity as an auxiliary source. So the stronger we press, the more envelope 2 we have. The lighter we press, the less envelope 2 we have.
+
+See how notes that have stronger velocity have more cut off. Pretty cool, right? So now in addition, we're going to pick the resonance. Let's put it a bit down. Leave it pretty much like this.
+
+And a lot of smoothing here. See how this smooths it out a little bit of this filter. Instead of being like a pluck, it's kind of like a w kind of sound. Now, let's go into the effects section. We're going to go and select a chorus.
+
+Everything as it is over here. Just the low pass filter all the way up and the wet a bit down. Opens the sound a little bit. Distortion, just a little bit of down sampling. So, let's even select here down sampling.
+
+We're going to put a bit of drive. Just a little bit and a little bit of here as well. In addition, we're also going to add another distortion. It's going to be a tube with post. But this going to go up somewhere over here.
+
+And this a bit down. About this, but a bit more drive. A lot less wet. EQ. We're going to go and do a high cut bit higher somewhere like this.
+
+A bit less q. Yeah. And just to finish everything, we're going to go and add a compressor, a lower threshold so you can see it activating over here. A bit more gain. And that's about it.
+
+But if you want a bit more width in this sound, if you want a little bit more delays in this sound, what you can also do, you just go here and add a bus. And in this bus, you can just go and add a delay. Ping pong is always nice. Something like this. Maybe just to create a little effect dotted, but we don't need all these frequencies.
+
+So, we're just going to go here, lower here, lower here, maybe a little bit more here. And then we control here in the level. really nice way to create a return channel inside Zoom and just make a cool effect to add a little bit more depth, a little bit more of that delay kind of feeling into it. In context with Saperbox and side chain, without the bus, with the bus just adds a lot of depth to the sound, right? And the coolest thing is that if you go here in the original sound, you have a lot of this in the macros to control, you have the mod wheel to control all these different effects.
+
+And you can find this preset over here in the description below. This is Leo Ready from Abstract Music Lab signing off.

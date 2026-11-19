@@ -1,0 +1,64 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 14 - SERUM 2 Tutorial | Cinematic Atmosphere for Breakdowns | Melodic Techno
+Source: https://www.youtube.com/watch?v=mTP1LcQVqpQ
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is LA Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm creating an Atmos and it sounds like this. This is if you want to listen to it in solo. And this is really good especially if you want to use it before a drop. For example, listen to it in context.
+
+really cool sound. And if you want to get it, you can get it right here in the description below in the CM2 techno pack that is available at Production Music Live's website. But now, let's get started with the sound design and let's get started with this tutorial. We're going to initialize this preset. And this is how it sounds like at the moment.
+
+just a boring saw wave, but we're going to initialize serum 2 and we're going to start shaping the sound. We're going to start with a default shape saw wave as it is. We're going to put the unison a bit up, the D-Tune a lot down, and the level also a bit down. Something like this. The fine is going to go a little bit down as well.
+
+Why? because we're going to do a little bit up in the oscillator B to create a little bit of a stereo feeling to the sound. Now, we're going to put go and select an FM from the sub over here, but we don't have anything in the sub yet. So, what we're going to do here, we're going to select a sub. In the sub, we're going to select a sub saw.
+
+And this is going to be pretty much as it is. We're going to just put this level all the way down. And we're going to keep this FM of the sub all the way down as well. Now we're going to go with a highp pass filter. And you can see how it tames a little bit of the low end.
+
+But that's pretty much it with oscillator one. Now we're going to go in oscillator 2. And we're going to also select a default shape saw. Put it four waves as well. We're going to put the dune a bit up.
+
+And we're going to put the fine a bit up as well. So, it's not perfectly in line with the other oscillator. Now, this level is going to go a lot down because this sound is a lot richer. And we're also going to use a highp pass filter over here. High pass filter a bit up.
+
+And that's pretty much how it should be. We're not going to do anything to the warp over here. And we're not going to do anything to the warp over here as well. Now, in the FM from the sub that I said the tube that we're going to use an FM, we're going to use LFO1. We're going to set it to envelope and we're going to put this to two bars.
+
+We're going to leave it as a triangle and we're going to put this all the way over here. That's pretty much how we want it to be. Now, envelope one, we're going to put the attack a lot up. And this is going to go at the top of M2. You can see M2.
+
+This is going to go pretty much over here. Release also a bit up. And this is going to go pretty much a little bit down. You can see that we can kind of aim for this setting over here. So pretty much over here at the top of the number Perfect for now.
+
+Now filter. In the filter, we're going to select sub A and B. Cut off a bit down. We don't hear too much at this point. So, because we don't hear much, let's do the LFO 2 first.
+
+We're going to go and sack this LFO 2. Put it over here. A bit slower. We're going to put this to a four bar. Retrig.
+
+But we're going to put this as a smooth as well. What the smooth does, it is smooth this out. So this kind of becomes kind of like a sign because it doesn't go all the way down to the top. It kind of smooths it out over here and it smooths it out over here. So it kind of becomes a sign.
+
+That's pretty much how it should be. Now, in addition to that, we're also going to use LFO3. And LFO3, we're going to put this to 32 bars. And you might say 32. Yes, 32.
+
+We're going to put this also over here in the cutoff. We're going to increase the rise over here. So, we're going to increase the rise to two bars. And the rise is useful to have the LFO slowly influencing what we're modulating it with. Now, we're also going to use the delay, and we're going to put this to one bar.
+
+So, it takes one bar until it starts affecting the sound. And we're also going to use this smooth over here. You can see how again, this is going to smooth it out a little bit also in the LFO3, but and this is where it makes it fun. We're going to pick the envelope one, and we're going to throw this over here in the rate. Now, we're going to pick this and put it a bit down.
+
+As this increases, this also increases over here. Cool. Right, we're going to put this to mono. We're going to put a little bit of portal as well. And in addition to that in LFO3, we're not we have to change it a little bit of the shape of the curve as well.
+
+So, this is going to go like here. And this is going to go pretty much over here. Now, this we're going to make it pretty much something like this. And this we're going to make pretty much something like this. Instead of using a triangle, that's pretty much what we have to do.
+
+Mono everything. We already have pretty much everything that we need at this point. We're going to go now into the effect section. Good effects. We're going to start with the hyper and dimension.
+
+We're going to pick the hyper and put it all the way down. And the dimension bit down in the wet, but just so you can listen. Just makes the sound a bit wider. Equalizer. Now we're going to select a low cut and a bell.
+
+In the low cut, we're going to go a bit down. And the Q also a bit down. Pretty much something like this. Now the bell is going to go a bit down as well. Gain also a bit down just to tame a little bit of this kind of resonating frequency.
+
+A little bit of a mud frequency without it. You can see how it cleans up a little bit of the mud of the sound. Now, we're going to select a compressor single. We're going to pick this threshold. Put it a lot down.
+
+Ratio as it is. Attack a little bit smaller. Release also a little bit smaller. Gain a bit up. and the mix as it is.
+
+Again, could be something like this. Now, reverb. We're going to select a hall reverb. We're going to start by picking the low cut. Put it a bit up.
+
+And also the low cut. And the low cut is going to remain as it is. Size a bit up and deck a lot up. and a lot more wet. We're going to pick the depth of the spin.
+
+So, this is pretty much how much spin do we want on our reverb. We're going to pick this depth and put it a bit up as well. Now, we're going to distort everything in addition to all that. We're going to select a tube distortion. We're going to pick the drive, put it a lot up.
+
+and a bit down with the wet delay. We're going to select a pingpong delay. Both S 1/4. We're going to select the feedback a bit up. We're going to already put the frequency a bit up somewhere over here.
+
+Now we're going to pick the queue, put it a bit down to narrow it down more to the high end, not so much in the low end. And a lot of wet. Now, we're going to use a new feature from Serum 2. We're going to select a splitter mid and side. We're going to go into the side and apply an equalizer only to the side.
+
+And that's the cool thing. like a low cut 32 Q. In addition to that, I forgot to do one thing here in the oscillator. We're going to go here and select an MG low 18 just to make this a little bit more cut down. Now, if you want to listen to this again in context, really cool sound that you can find over here in the description below at Production Music Live's website.
+
+Hope that you like this tutorial. This is Leo already from Abstract Music Lab signing off. Together.

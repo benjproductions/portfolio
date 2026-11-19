@@ -1,0 +1,38 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 11 - SERUM 2 Tutorial | Rich Lead, Melodic House | Anjunadeep
+Source: https://www.youtube.com/watch?v=66RrYjW5Q24
+Transcript: Captions pulled 2026-11-19
+
+Hey friend, this is Leo already from Abstract Music Lab and today I'm back here at the sound design channel. Today I'm recreating a lead called Seagull and it sounds like this. If you want to check the MIDI, that's pretty much the MIDI. So you can check it this in isolation. Now, if you want to check it in context, a bit louder.
+
+And if you want to get this preset, you can get it over here in the description below in the Serum 2 feelings pack volume 2 that is available at Production Music Live's website. But now, let's get started with this tutorial. And we're going to initialize Serum. And this is how it sounds like. We're going to start by choosing here a default shape saw.
+
+And this is how it is at the moment. And we're going to put the unison a bit up. Did you tune a lot up level a bit down? Pretty much somewhere over here. Now, we're going to also go and select here a warp, a phase distortion from the noise, but we don't have any noise.
+
+So, we're going to activate the noise level down pitch a bit down AC hum. And now we can activate this here. You can see how it changes the sound a little bit. Now, B, we're going to go here in the default wave serum tables. We're going to select a saw drift 303.
+
+A bit less, a bit more volume. Actually, we're going to choose here a hard clip from the distortion. And you can see how this changes overall the sound. But we're going to pick the randomness and put it all the way down. and the phase all the way down as well.
+
+Now in C, we're going to select a basic shape sign. We're going to put the level a bit down. We're going to select here a bend plus minus almost like a saw wave as well. Phase and randomness all the way down. And envelope one, we're going to modulate this here.
+
+But what is envelope one? A bit of attack. A bit less sustain. A bit less decay and a bit more release. Now looking into this, what we have to do is pick this handle, put it a bit down somewhere over here.
+
+pretty much here in the middle of M2. Now, this one has to go pretty much at the top of M2. And this one over here, pretty much at the middle of M3. So, a little bit down. Now, filter MG load 24.
+
+And we're going to go and select A, B, and C. We're going to put the cutff a bit up. And we're going to assign the envelope one, but we're going to hold alt shift and make it bipolar. A bit of distortion drive actually, which brings a bit of saturation in the sound. Mild distortion in the sound.
+
+And a bit of fat, which also brings a bit of saturation the sound, but it's a different kind of saturation. the resonance as it is. Now the filter number one, we're going to put it completely to bus number one. And in bus number one, we're going to go and start doing some effects. First of all, chorus without You can see how this adds a bit to the sound.
+
+We're going to also change a bit of the delay settings, a bit of the low pass fattings as as well. Something like this. Feedback as it is and a little bit less depth. Now a bit of delay more here normal 1/8 dot and a 1/8 feedback as it is the frequency a bit higher and the Q a bit phone. Now, we're going to select two reverbs.
+
+First, we're going to use a plate with damp pre and size as it is a bit less high. Now, a hole. We're just going to go bigger here. And lastly, just low cut this a little bit. Nice.
+
+Now, we're going to go back to the main. And in the main, what we're going to do is we're going to start here with a low cut as well. Remember that according to the mix, the bus one then goes to the main. So everything that we're doing here is also going to be affected by the main effects low cut to start bit of distortion. Going to use a soft clip without Now, we're also going to go here in the envelope one and boost a bit of the drive here.
+
+EQ. We're going to start by choosing here a bell. Let's go into this one actually. Boost here. Bit less and a bit less Q here as well.
+
+A bit of dimension. No hyper. So hyper all the way down. Dimension size down. This is going to expand the sound a little bit.
+
+And just to finish everything, we're just going to use a compressor. Now, if you want to make this sound a bit tighter, you can go here and just put this a bit down, different or tighter. And the cool thing about the original preset is that you have a lot of macros. You have a lot of modulations here to play around with. for example, cut off, make it wider, and just gives you a lot of flexibility in the presets as well.
+
+If you liked it, you can get it over here in the description below. This is Leo already from Abstract Music Lab signing off.

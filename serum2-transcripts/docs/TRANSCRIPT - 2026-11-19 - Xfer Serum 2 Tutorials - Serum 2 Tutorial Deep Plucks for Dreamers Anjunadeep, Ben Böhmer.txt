@@ -1,0 +1,34 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 25 - Serum 2 Tutorial | Deep Plucks for Dreamers | Anjunadeep, Ben Böhmer
+Source: https://www.youtube.com/watch?v=phzA7GVtIxs
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is Lola Ready from Abstract Music Lab and today I'm back here in the sound design channel to recreate a plug called drown and it sounds like this. If you want to listen to it in solo without side chain and MIDI really cool sound now in context with a little bit of side chaining as well. So, let's activate the side chain. Really cool sound that you can find over here in the description below in the melodic progressive pack that is available for Serum 2 and it's available at Production Music Live's website. But now let's initialize this sound.
+
+And we're going to listen to this raw without side chain. And we're going to get started here by selecting first a digital anti-stasis wavet position like this. And now LFO1. We're going to modulate a little bit of the wavet position as well. somewhere like this.
+
+But we're using here a bar and free. In addition, we're going to go here in the matrix. We're going to select note note random and we're going to put this into the oscillator a panning a little bit like this. And back and forth. So you can see how it changes back and forth.
+
+Now noise, we're going to select here the serum 2 noises. We're going to select crackle all the way down with the level. But envelope 2 is going to modulate this. How much? Something like this.
+
+But what is envelope 2? Envelope 2 is all the way down. And we're actually going to select here a BPM. So what does that mean? We're going to Can you see how this is locked to the BPM?
+
+1/4 for the DK and 1/4 triplet for the release. But we're going to do something different. First, we're going to go and select mono and always and add a little bit of paramament here. In addition, we're going to go into envelope one and add a lot of release here. Yeah, somewhere like this.
+
+without mono with mono. But we're going to go and do something different. If you go here in the global and you have this scaling, this pretty much tells you that you're going to get 100% of a second. And this pretty much just multiplies this by this one. If you put this a little bit higher, you're multiplying all the sounds by 229%.
+
+This makes it sound a little bit longer. See what I mean? Back to the oscillator. Now, we're going to go into the filter. And in filter, we're going to select here only a cut off all the way down.
+
+But again, envelope number two is going to modulate this. And here's where we're going to listen to most of that difference. Before and after. See how it makes the sound longer. Filter one.
+
+We're going to send this a little bit to the bus. And in the bus, what we're going to do is just add a little bit of grit into it. So distortion, we're going to add a post lowass as well. And we're going to also make this a lot higher. somewhere like this, maybe more.
+
+And the Q a bit down. But this is going to go to 100% mix and 100% drive without with. But let's tame a little bit of the low end here. And to finish, just a delay. Ping pong 1/8.
+
+Frequency as it is. Feedback as it is. Frequency a bit down. Q a bit down as well. Tame a little bit of the highs and a bit of the lows.
+
+And mix as it is. And to finish everything, if you want a louder sound, you can just go into the level and make it a bit louder. And you can also pick the resonance and put it a bit down if you want a bit more low end out of the sound. Before. After.
+
+Now in context with side chain. Really cool sound that you can find over here in the description below. But there's one thing that is really cool in the original preset, which is you have all these macros and also the mod wheel that it's really cool to create automations during your tracks. If you like the video, hit the like button. If you loved it, subscribe to the channel.
+
+This is Leo already from Abstract Music Lab signing off. Don't.

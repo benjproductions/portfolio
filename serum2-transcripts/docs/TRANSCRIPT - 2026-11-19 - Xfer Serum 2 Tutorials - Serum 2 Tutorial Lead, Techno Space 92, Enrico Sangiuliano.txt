@@ -1,0 +1,68 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 04 - Serum 2 Tutorial | Lead, Techno | Space 92, Enrico Sangiuliano
+Source: https://www.youtube.com/watch?v=jNsKlNOrx-4
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is Lola Ready from Abstract Music Lab and today I'm back here to the sound design channel. Today we're creating a lead called Rocket and it sounds like this. If you want to check the MIDI as well without side chain. Now, if you want to check this in context, I'm going to activate the side chain again, just so you can see. It's just a little side chain.
+
+And we're going to listen to this again. really nice sound, especially for techno. And if you liked it, you can get it over here in the description below in the CM2 techno pack that it's available at Production Music Live. But now, let's get started with the sound. So, we're going to initialize the sound.
+
+And this is how it sounds like. Pretty horrible. So now we're going to start by choosing basic MDC + 1 - 6. Why are we doing this? Because we're also selecting here later a basic mini which is going to be zero and plus N.
+
+And this will create a sense of stereo. But this is for the future. unison up. So, we're going to put more voices into the sound, which makes the sound stereo, but we're going to put the also the tune a bit further up. And this makes the stereo voices a bit further apart.
+
+Now, level a bit down. And now, basic mini. Basic mini is going to go a lot down. Somewhere over here. Why?
+
+because we're choosing the velocity as a modulator for the basic mini. Somewhere like this. What does that mean? Well, it means that if you play the notes harder, we're going to listen to more of that basic mini. If you play it a little bit softer, we're going to listen to more of that oscillator A.
+
+Now, noise. We're going to select again a color white. Make it a bit stereo. Level a bit down. We want to make it a little bit more tracked to the whatever we're playing in the keyboard.
+
+So, right click, enable pitch tracking. And now you can see that this goes to semmitones. Now, envelope one a little bit up in the attack. The sustain is going to go a bit down. So, you can see that the sound doesn't sustain that much up top.
+
+and the decay. We're going to put this a bit down as well. Somewhere like this. But then we're going to pick this handle, put it over here at the bottom of M2. A bit more release.
+
+So you can see how the note holds a little bit longer. It doesn't end abruptly. And you can see this handle. We're going to pick it and put it a bit down as well. Perfect.
+
+Now, envelope one. We're going to also modulate the level of B with envelope one. A little bit of it. And we're going to also modulate the level of the noise. A bit more of it.
+
+Nice. Now, filter. We're going to select filter number one. And we're going to choose here an MG12. Is going to be A and B.
+
+Not the noise. Going to put the cut off a lot down. And we're going to pretty much just listen to the noise. But envelope 2 is going to modulate this just so we can actually listen to something. But we have to shape envelope too.
+
+How is it going to be? Sustain all the way down. Now decay pretty much as it is, but we're going to go a little bit further up with it. And the release a bit up as well. Somewhere like this.
+
+You can see this handle. You can put it over here at the top of M3. A little bit down. M3. There you go.
+
+Macro 3. That's what I mean with it. Now, this is going already to here. And now back into the filter. Resonance a bit up.
+
+And you can see how this makes the sound a little bit more acidy. Drive a bit up. And the drive differs from the fat because this is a mild distortion and this is a mild saturation. And this is going to go a bit up. Now, in addition to that, we're going to also go and activate filter number two.
+
+We're going to click here and throw this into filter number two. But the mix of this is going to go all the way down. So, if we do anything, it doesn't change anything. Why are we doing this? Because we're going to push the drive here.
+
+And this changes a lot. You can see how this changes a lot. The resonance we're going to put as it is. And you can see how without the filter two and with the filter too. Cool.
+
+Effects. And we're going to start with a hyper dimension. Hyper all the way down. Dimension. We're going to keep the size as it is.
+
+And we're going to put the wet and put it a bit up. And see how this makes it sound a bit stereo. Now distortion. We're going to go and select a tube distortion. Leo.
+
+But what is a tube distortion? You can just go here just to test and select a tube. See what happens. You can pretty much do this with every distortion. So diode.
+
+Look at what happens. That's pretty much it. Again, back tube. We're going to put the drive a bit up to really crunch the sound. We're going to put the mix a bit down.
+
+Now compressor multiband release a bit down. This is going to compress the sound a lot more. Ratio at three. But because it becomes a bit quiet, we're going to push the loudness a bit up. Attack a bit down.
+
+And the release also a bit down. But listen to this. I feel that there's just going a bit too much noise in this. So, I'm actually going to go back into the filter and activate the noise here because then it just becomes a sound more cohesive. And now back into the effects, but now we're going to go and change a little bit of the multiband.
+
+Now, here in the multiband, we're going to leave pretty much everything as it is, but we're going to raise the levels of a lot of things. Going to raise here. You can see how this makes the sound a bit more high-end. And this also is going to go a lot up. And you can see how pretty much what we're doing is we're EQing the sound.
+
+We're raising the level of the mids between 128 and 25, which is essentially the same thing. We're going to also put this something like this to also compress below the threshold. And the low end, we're going to pretty much leave it as it is. But again without this with it just becomes a meteor sound. Now delay this is going to be a 1/8 dot for both.
+
+And we're going to go into ping pong mode. So you can see everything here on the sides. Now feed is going to go a little bit up the feedback. So this is the amount of delay and how long it keeps going. frequency a bit up because we mainly want these frequencies.
+
+We don't want to delay the low end. And a bit more wet. Now reverb. Now a bit more high, but we're going to keep it as plate. Now we're also going to put the size a bit down.
+
+The width a bit down as well. Dampening as it is, pre-delay as it is, and the wet a bit up. Equalizer. Now, we're going to not do much over here. We're going to use a low shelf, but we're going to just lower the level here.
+
+And around the same frequency, something like this. We're going to again with the same EQ, we're just going to boost this here. So you can see how this becomes a lot midier sound. Now, if you want to listen to this in context with the MIDI, really nice lead sound. And you can get it over here in the description below.
+
+This is Lilo Ready from Abstract Music Lab signing off.

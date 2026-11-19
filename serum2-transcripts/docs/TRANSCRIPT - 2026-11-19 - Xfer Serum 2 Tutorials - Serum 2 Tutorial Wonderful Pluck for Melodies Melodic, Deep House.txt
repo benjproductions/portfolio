@@ -1,0 +1,50 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 38 - Serum 2 Tutorial | Wonderful Pluck for Melodies | Melodic, Deep House
+Source: https://www.youtube.com/watch?v=WOxf3y3-btQ
+Transcript: Captions pulled 2026-11-19
+
+Hey everyone, this is Lola Red from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm recreating a plug called September and it sounds like this. If you want to listen to it in solo with a MIDI, we're going to activate a little bit of shaper box and listen to it in context. and play around with the mod wheel. Really cool sound that you can find over here in the description below in the Serum 2 melodic progressive pack that it's available at Production Music Live's website.
+
+But now, let's get started with this sound design and let's get started with this tutorial. We're going to initialize the sound and deactivate Serum Shape Box. We're going to start by selecting here a digital RCM base one wave table number 12 almost like a sine wave. But now we're going to go into LFO one and do an inverted triangle. So hold alt and you can see how this snaps to the grid.
+
+And this is going to modulate the wavet position. Something like this. Level all the way up. And now warp number eight. And now warp B.
+
+We're going to start by choosing here a band plus. And this is going to go up. You can see how this makes the sound a little bit more into a saw more of a saw feeling to it. And now we're also going to activate the FM from B, but B is not there. So oscillator B, we're going to select here a digital wave called lately, but the level all the way down.
+
+No difference because we haven't done anything. So, a little bit of FM, just so you can listen to the difference, octave up, wave table a little bit up as well. And we're also picking LFO1 and putting this over here. Why all this work if we don't listen to much of what is happening? There's not much FM here.
+
+We're going to go to LFO number two, free chaos Lawrence, and we're going to select X and put this in the FM. Now, we listen to a lot of it. In addition, we're also putting this to the fine of A. And this is going to be as half. Now LFO3, we're going to go and select this as free two bars whole BPM as it is.
+
+And we're putting this pretty much to the band plus. But the shape has to be a little bit like this. Now LFO 4, we're also attaching this to the octave in the uniolar. Alt shift uniolar. And we're putting this to one octave only.
+
+So one octave. Not what we want. We want this to be half. And we want this to be like this. Hold shift.
+
+And this creates bars. Three. Now noise S2 noises crackle and this is going directly out so not going to be interfered by the effects that we put level as it is. And now LFO5, we're also going to go in a triangle free two bars. Something like this.
+
+And putting this to the start. So it changes the start. Now envelope one. We're making this a lot longer. No difference here because we have to put the sustain all the way down into a plucky feeling.
+
+And now the release a lot up. Now it starts to get cool. Filter MG12 A and B in case you want to activate B as well. And cut off a lot down. So we don't listen to anything.
+
+We also put the resonance a lot down. This is going to give a bit more low end, but we don't listen to anything. So envelope 2, we're going to attach this to the filter just a tiny bit. And this is going to have a long release and also no sustain and a short decay. In addition, LFO3 a little bit into here as well.
+
+How much? Just a tiny bit. Something like this. But in addition, we also change the decay sound here. See how it goes up and down.
+
+In addition, LFO number six, we're going to select another chaos Lawrence. This is going to be as bar and this is going again in the cutoff. In addition velocity also here just a tiny bit. Now we're sending everything that goes into filter one to the bus number one as well. Something like this.
+
+So, let's modulate this. We're going to add a bit of delay into bus number one. So, delay all the way up and ping pong. You can already hear it on the sides here, but a lot less Q. Oops.
+
+A lot less Q. A bit more feed. Something like this. And 1/8. Now, we're going to equalize a bit of this delay.
+
+So, pick the cane and put the gain all the way down. Now, we're going to make this a bit higher here and a bit higher here as well. Now, let's go into the main effect. So, everything that goes into the bus one goes after as well to the main. So effects, we're going to go and select first an EQ.
+
+This is going to be a low shelf. Pretty low and pretty low as well over here. Second distortion. We're going to select soft saturation post, but give more to it. something around here and Q a bit down as well.
+
+Now drive a bit up and the wet a lot down. Now in addition, we're selecting here an EQ. And now we're going to go all the way down with the level here. And a bit down with the Q as well, but higher. Let's go with a low cut.
+
+I think that's going to be better. Now, chorus. Where's the chorus? Chorus. Chorus.
+
+Chorus. No. Chorus. Let's leave this compressor deactivated for now because we're going to use this chorus. Mix a bit up and low pass all the way butt rate all the way down.
+
+Now compressor just if we have any frequency that goes up and we can boost a bit here as well. Now let's listen to this in context. Side chain. Side chain. But why get the preset?
+
+Because in the preset you can find a lot of macros and a mod wheel that you can play around with. So it makes the experience a lot more fun. Now if you like this tutorial, you can hit a like button and subscribe to the channel. This is Leo Ready from Abstract Music Lab signing off.

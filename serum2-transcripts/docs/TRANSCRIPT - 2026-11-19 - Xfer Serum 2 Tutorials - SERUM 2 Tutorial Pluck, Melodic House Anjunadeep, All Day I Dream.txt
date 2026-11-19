@@ -1,0 +1,28 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 07 - SERUM 2 Tutorial | Pluck, Melodic House | Anjunadeep, All Day I Dream
+Source: https://www.youtube.com/watch?v=_xcI1KrdzY0
+Transcript: Captions pulled 2026-11-19
+
+Hey friend, this is L L L already and I'm back here the sound design channel. Today I'm recreating this plug called Ares and it sounds like this if you want to check the sound in isolation without any ShaperBox MIDI bit of ShaperBox in context If you like the sound you can get it over here in the description below in the CM2 pack called Feelings volume two that you can find at Production Music Live's website. But now let's get started with this tutorial and let's initialize the sound. That's pretty much it as it is. We're going to start by selecting here a spectral solid phase one.
+
+Make sure that the ShaperBox is not activated. And that's pretty much it. Now this we're going to change the wave table position. Something like this. Level as it is.
+
+Pretty much everything as it is. But in the LFO one we're going to select a triangle 1/8 envelope and this is going to go here in the wave table position. Now in B we're going to just select a saw and it's going to come from the basic shapes saw. Leave it as it is. Now we're going to just select a sample factory flute and we're going to select a flute delay.
+
+All the way up over there and octave also all the way up. Just a tiny bit of the sound and pretty much noise now. We're going to select a arp light. Change the start position. A bit more level.
+
+Now envelope. We're going to put the sustain all the way down. And decay a bit down as well. Release also up. Now filter mg low 24.
+
+A B C and noise. A bit higher here. Something like this is enough. A bit of drive. And a bit of envelope one in the cutoff.
+
+Now effects. We're going to start by choosing a hyper and dimension. A bit less here. Blender as well. Just put the wet down.
+
+Everything as it is now. Delay. Ping pong delay. 1/4 dot. 1/8.
+
+Everything else the same. Reverb. We're going to choose a hall. A bit more. Now, a convolution.
+
+Convolve. And we're going to convolve this sound with something else, which is going to be this coloration suitcase EP piano one. Put it up a bit pretty much as it is. And EQ to finish it up. Low cut.
+
+All the way down to the end. And high cut all the way down to the end. Pretty much everything as it is. Now, if you go to the original preset, you have a lot of macros and a lot of automation so you can play around with and you can get it over here in the description below. This is Lior ready from Abstract Music Labs signing off.
+
+Ciao.

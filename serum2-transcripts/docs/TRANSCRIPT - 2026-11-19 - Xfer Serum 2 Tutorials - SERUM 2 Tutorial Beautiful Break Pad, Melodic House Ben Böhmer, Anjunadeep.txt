@@ -1,0 +1,46 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 08 - SERUM 2 Tutorial | Beautiful Break Pad, Melodic House | Ben Böhmer, Anjunadeep
+Source: https://www.youtube.com/watch?v=12rMvNz90Ik
+Transcript: Captions pulled 2026-11-19
+
+Hey friend, this is Lilo Ready from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm recreating this pad called Vibing and it sounds like this. If you want to listen to it in solo, this is how it sounds like. really wobbly. Now, if you want to listen to it in context, amazing for breakdowns, and if you want to get it, you can get it over here in the description below at Production Music Live's website.
+
+This is the feelings number two pack for Serum 2. But now, let's get started here with the sound design. We're going to initialize this preset. And this is how it sounds like just a saw wave, a usual saw wave, but we're going to start by using over here pretty much just putting the volume down. And we're going to do here warp from B.
+
+We're going to good do phase distortion from B. But we don't have B. So let's activate B. This is going to be also a saw wave level all the way down here and octave up, but now with the phase distortion so you can listen to it. Now, we're going to do a lot of automation here with LFOs.
+
+So, the first LFO is going to be a triangle. We're going to set it to a free triangle. This is going to use hertz instead of BPM. And we're going to put the hertz a bit up somewhere over here. Now, we're going to put this first at the A fine without B just so you can listen.
+
+This creates a little bit of wobbliness in the pitch. Now activating B again. LFO 2. We're going to put this as a sine wave. So basic sine wave.
+
+We're going to assign this to the pan of A. Something like this. And to the pan of B. But we're going to first modulate the sound. This is also going to be free.
+
+And we're gonna put this to hertz again. That's pretty much it for now. Now, the third LFO is going to be a chaos rosler LFO. Nothing happens because we haven't assigned it yet. So, we're going to put this here as re-trig to hertz and a little bit down.
+
+something like this. Now, we're going to assign this to the level of B and we're going to put this to 100%. Can activate trip dot, but that that doesn't make much of a difference. Now third, we're going to go here into wavetable serum wavetables analog and we're going to choose here in analog and alter wavet position a bit differently. Lab down.
+
+Now noise. We're going to choose a SID noise level all the way down and pitch just a tiny bit differently. But again, LFO number four. We're going to now choose a Chaos Lawrence. And this is going to be a retrig.
+
+Also, let's first assign it to something. Let's assign it to the noise. Make sure to assign the X, not the Y. Now, we're going to go again to Hertz. And in Hertz, we're going to just put it a bit lower.
+
+One difference that we're doing here, we're putting the release a bit up. So, this feels more like a pad more than anything. And we're activating the filter MG low 18, A, B, and C. So, we have a little bit of that noise. Cut off a bit down somewhere over here.
+
+Now we're going to get LFO4 and put it a bit in here. LFO1 also a little bit just a tiny bit. And we're also doing this with LFO 5. So LFO5, let's assign it already. But we're picking this and put it pretty much at this dot.
+
+You can hold alt and you can see how it remains at the dot but slightly before it. And we're going to put this somewhere like here. This is going to be envelope hertz and a bit smaller. [Laughter] back into the filter. We're not going to do anything in the drive, in the fat, or in the resonance.
+
+Well, we're going to put the resonance all the way down. Now, effect section. And in the effects section, we're going to go into the distortion. Add a bit of distortion here. We're going to use tube.
+
+We're going to put the mix a bit down. But, and here's the cool thing. We're going to go here in the LFO 4X and we're going to put this in the drive. So you can see a boost of loudness because we get more drive out of this chaos LFO. Now delay 1/4 feed a lot higher.
+
+And pretty much we're going to put this a bit down. And the Q all the way down a bit less wide as well. Now reverb low cut a bit up. But first let's make this into a hole. size a lot up and decay a bit up as well.
+
+Wet also a bit up. Now we're going to add a compressor just to tame a little bit of those sound peaks. Just because we tame a little bit, I'm just going to add just a smidge and take a bit of the mix out. Cool. Now, we're going to go here into a delay.
+
+Ping pong. We also have select ping pong over here. So ping pong in both delays. 1/8 dot here. A lot more feedback.
+
+Q a bit up. Frequency out. Q [Laughter] down. And a lot more mix. filter.
+
+Just to end this, we're going to select here miscellaneous and we're going to go to coms but cut off a lot of bit of dampening. Now, if you want a less excited sound, you can just go hear the cutoff and put it a bit down. And you can also play around with the cutff and just create automations with it to make it even cooler. And all these automations are available in the preset. So, you can just play around with the mod wheel.
+
+adding more delays, adding more pretty much everything, adding portimento, all in the preset for you to check it out. Hope that you like this preset and if you liked it, you can get it over here in the description below. This is Leo already from Abstract Music Lab signing off. Ciao.

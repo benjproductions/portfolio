@@ -1,0 +1,78 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 17 - SERUM 2 Tutorial | Making INSANE Glitch FX
+Source: https://www.youtube.com/watch?v=g3VV3S__l7A
+Transcript: Captions pulled 2026-11-19
+
+Hey friend, how you doing? This is Leo already from Abstract Music Lab and today I'm back here in the sound design channel. Today I'm creating an atmos called glitched. And if you ever wondered how you can create glitch sounds, that's pretty much it. Pretty cool sound.
+
+If you want to listen to it in context, you can put this in the breakdowns and especially for background noises. If you want to get this preset, you can get it over here in the description below in the Serum 2 Techno pack that is available at Production Music Lives website. But now, let's get started with this tutorial and let's get started with the sound design. It's going to be a long one, so hang on tight and let's get started. This is pretty much how it sounds at the moment.
+
+just a saw wave, but it's going to be a lot lot lot more complex. Now, default shapes minus one in the octave. We're going to already select an FM from the sub. But again, we don't have anything in the sub. So sub, we're going to put the sub as zero level all the way down.
+
+And now we're going to push this FM. You can see how it changes the sound. Now to finish it up, we're going to pick the level, put it all the way down, and we're going to go and start selecting here an LFO1, a KO's Lawrence. We're going to pick the X and put it in here. You can see how it already wobbles a little bit.
+
+We're going to put this just to something like this. And we're going to do some changes over here. It's going to be free and it's going to be 1/8. Put this to mono. And let's already put the attack also a bit up.
+
+Something like this. And the release a lot up as well. And see how this already creates some glitches. Now we're going to go into the noise serum 2 noises radio glitch. Level up, pitch down, randomness as it is, start as it is.
+
+Now, we're also going to go here, LFO2. We're going to select here a free SNH, and we're going to put this into the noise pitch to create the glitch. And now where things start to get fun. We're going to use here an oscillator B granular. So we're essentially using grains of the sound and not a wave table to create the sound.
+
+We're going to go and select first a tiger growl just so you can listen to it. Going to put this two octaves up. And we're going to put this here to a forward loop. Now, we're also going to limit here the amount that we want. We're going to pretty much want the start of the number and the end of the number here.
+
+Now, this we're going to go and put this somewhere in the end of M. Now, the cross fade between the grains. We're going to activate this over here and put it somewhere like this. You can see how this already makes the sound a bit stereo just by activating this. Now, scan.
+
+We're going to put this a little bit down. Something like this. This scan rate is pretty much going to look in last points because it was at 100%. So, now that we set it to 40%, it's going to look for last points within that loop that we selected. We're going to also put a bit more density here.
+
+And this changes the density of the grain. Now, the length is going to remain as it is. And we're going to put this a bit to the left. Level all the way down. Why?
+
+Because we're going to use LFO3 here. Another SNH. It's going to be again free SNH 18. And we're going to put this to the level to make it really like a glitch. Now, what this does over here, this pretty much we're going to start offsetting the glitch and we're going to offset the direction of the loop and also the pitch of the grain and also randomize the length, randomize the pan and randomize the the levels.
+
+So, offsetting a little bit up. Now, we're going to also change the direction a little bit. You can see that sometimes it goes backwards. Pitch as it is. Randomness of the length also a bit up.
+
+Now randomness of the pan and randomness of the level. Somewhere like this to finish it up. Warp. This opens this new tab. And we're going to essentially add a tube distortion already to this.
+
+Now, in addition to this, we're going to go into the LFO number two and we're going to add a little bit here. Just a tiny bit so it reaches number three and makes this sound even weirder. Now LFO4, we're going to again select free SNH and we're going to select this now to 116th but with a bit of smoothing. Let's activate this into the A warp first. Let's put this over here in the FM.
+
+Let's smooth it out a little bit. Really weird sound. Now, filter number one. We're going to start by selecting filter number one over here. And this is going to be an MG12.
+
+It's going to be A and B. We're going to pick this cutff. Put it a bit up somewhere over here. But the LFO3 is going to modulate a little bit of this sound. A bit of resonance and a bit of fat.
+
+drive, not fat. Great. Now, we're also going to select filter number two. And in filter number two, we're going to select A and the noise. And we're going to put this cut off a bit down.
+
+But we're going to assign LFO number two to it. How much? Just with a lot of resonance. A lot of drive as well. really weird sound.
+
+Right now, going into the effect sound, we're going to go and select a convolve, which is essentially we're going to merge two sounds together. We're going to merge the signal from the convolve with the sound that we already have. We're going to go and select a long digital chamber. We're going to go and put the size a bit down. the tone a bit down as well, the dampening a bit up, and the mix a bit down.
+
+But we're going to use LFO number five to modulate this mix as well. What are we going to do? This is going to be a retrig host BPM two bars. And we're going to do some shaping over here. Now, this is going to go here.
+
+This is going to go pretty much here. And we're going to go and create another point pretty much at this here. Now, boom. This is going to We can leave it as it is. So, I'm just going to create a new point and deactivate.
+
+Now, this a bit of a curve pretty much here. And now this also a bit of a curve pretty much here. So you can see how it creates sudden bursts of convolve into the sound. Now compressor, we're going to select a multiband compressor. Threshold a little bit lower.
+
+Attack a little bit lower. And release a bit higher. a bit of gain over here. Nice. And now we're not going to do anything in this point, but we're gonna raise a little bit of the level as well, lower the low end right here, and raise the mids.
+
+What essentially we're doing, we're raising the mids, raising the highs, lowering the lows. We're kind of EQing the sound. And that's what we're doing with this multiband as well. EQ. Now, in the EQ, we're going to select a low shelf and a bell.
+
+And in the low shelf first, we're going to put keep the Q as it is. Just lower the gain a lot. This frequency as it is in the bell as well. So just the queue is going to go a lot down because we want a broader stroke, but we want a bit more loudness here. So now ping pong.
+
+Hold on. We're ending this ping pong delay 1/4 and 1/4 dot feedback as it is. The frequency pretty much as it is as well. And we're also going to pick this Q. Put it a bit down.
+
+Let's choose a utility. Make the bass a bit mono. So, just something like this. This is pretty glitchy already. Now, we're going to go and select a filter.
+
+And this is going to be really cool. So, pay attention to this. There's a new type of filter in the Serum 2, which is called the DJ mixer, which is essentially emulates the DJ mixer from where you're DJing. We're going to go and put this somewhere over here. And you can see how this low cuts.
+
+And if you go higher, we start high cutting it. Now, when we low cut, we're going to put this somewhere over here. Cool. But we're going to assign LFO 6 somewhere over here. And you can see how it's going to make the filter change a lot.
+
+This is going to be a free host BPM 1 and a half. So to activate one and a half, you activate the dot one and a half bars left here at 75% this curve and this at 35 37 and 1/2. Now in addition, this is going to be really cool. We're going to go here and select here a saw down again touching the barb. This is going to be exactly a 2x two here.
+
+2x two. Okay. This is going to be re-triggered. The host BPM 116. Nothing was assigned to it yet.
+
+But we're going to also assign a little bit of smoothing here. Just a tiny bit. Now, where are we going to assign this? We're going to assign this into the level of the filter. So over here but in a uniolar hold alt shift.
+
+Really cool sound. Right now lastly to finish it up reverb. And in the reverb we're going to select a whole reverb. A lot of high-end cut. Just a bit of size and a bit of decay.
+
+The mix is going to go all the way down, but LFO number three, we're going to go and assign it to here. Why? Because we want it to be completely random. Again, it's a glitch. And that's pretty much it.
+
+Really cool glitchy sound in context. This is just one note, but if you want to play other notes, you can as well. That's why I haven't shown the MIDI, but that's again, it's just pretty much one note looped. And I hope that you liked it. If you liked it, you can get it over here in the description below.
+
+This is already from Abstract Music Lab signing off. Down.

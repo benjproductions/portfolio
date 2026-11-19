@@ -1,0 +1,58 @@
+Course: Xfer Serum 2 Tutorials (The Sound Design Channel)
+Lesson: 29 - SERUM 2 Tutorial | Deep & Modulated Pluck, Melodic Techno | Massano, ARTBAT
+Source: https://www.youtube.com/watch?v=5Oq9X9U6c8Y
+Transcript: Captions pulled 2026-11-19
+
+>> Hey friend, this is Lio Loreti from Abstract Music Lab and today I'm back here in the sound design channel. Today we're creating a pluck called Edges and you can listen to it in solo without side chain. With the MIDI. >> >> Really wobbly now in context. >> >> I threw a bit of side chain as well.
+
+Now, if you want to get this preset, you can get it over here in the description below in the Serum 2 Techno Presets Volume 2 that's available at Production Music Live's website. But now let's get started with the sound design. Let's deactivate the shape box and let's get started with this tutorial. So, we're going to get started by just getting a bit of swing over here and this essentially is going to make the notes play a little bit off tempo compared to what you had set over there. Not a major difference, but there's still a difference.
+
+Basic CJW CJW Plus one in the octaves. We're going to change the wave table position. Something like this, more of a sawy kind of feeling. Now we're also going to pick the semitones, put it five down. This kind of makes it into a seventh.
+
+So, we're going to activate Let's do oscillator B first because this is going to be our important one in our sound. And you can see why we're doing oscillator B first. Otherwise, you're just playing the seventh of what we're playing. So, oscillator B We're going to choose here an AT Arp 260. Minus one Fourth wave table And we're going to put the unison to six.
+
+Unison is we're going to make it a bit more voices, so this makes it stereo. We're going to leave the detune as it is. So, the distance between the voices and this is why it creates the stereo feeling. But we're going to focus here mainly on the mono ones over here on the phases. You can see that when we put the blend down, it mainly focus on the center ones.
+
+Level a bit down. >> >> And for now, let's go back to oscillator number A. Now oscillator A, we're going to go and throw it a lot down. That's why we focused on oscillator B first. You can see that this is just complementing the sound.
+
+We're going to keep the detune as it is. We're going to keep the blend as it is and we're just going to go and throw a high pass filter. Something like this. But we're going to do a lot of changes here. We're going to go here and choose a chaos Lorenz to make this really wobbly.
+
+We're going to choose a 1/2 and you have here X and Y. X and Y. So, X is going to start over here in the wave table. Something a little bit like this. Why we're going to go a little bit less.
+
+>> >> Now we're going to go into oscillator B again and we're going to go into the warp modes of it. We're going to go and choose phase distortion and we're going to just choose phase distortion from the sub. Phase distortion, we're going to modulate this wave table based on the wave table of the sub, not based on the frequency, but based on the wave table. And we're going to select here a sine, put the level all the way down. Not FM phase distortion >> >> Can you see how it changes the sound?
+
+And we're also going to choose here a high pass filter. >> >> Something like this. And that's a really good start. Now LFO number two, we're going to select here another weird LFO which is this S&H. We're going to put it as re-trig BPM and put it over here to 1/16.
+
+And we're going to put this minus nine over here. >> >> So, it's random how much of this phase distortion that we have. Now envelope one, we're going to put the sustain all the way down. Decay a bit down as well. And you can see how the sound becomes a bit tighter.
+
+But we want a bit of release. >> >> Something like this, a bit more attack. >> >> And that's about it. Now we're going to go into filter number one. >> >> A, B, and C And we're going to also select here a multi BP12.
+
+>> >> This is a band pass. We're going to put this a bit lower. >> >> Resonance a bit up Drive a bit up as well. Maybe less. And you can see that we're going to push frequency here.
+
+We're going to leave this frequency around here. Now we're going to do a lot of modulation. We're going to get started with envelope two. We're going to put this into the cutoff. >> >> But just a tiny bit.
+
+And we're going to make this again into a plucky sound. >> >> A bit more release and a bit longer, smaller decay. >> >> Something like this maybe. >> >> Now we're also going to go here into LFO 3 and we're going to select here a free BPM. We're going to put this as a two bar, something like this and this is going to go the phase is going to go over here, right up to the top.
+
+So, this starts already up to the top and this modulates a little bit of this. And you can see how the sound sounds really filtered, but we have to go into the velocity as well and change it a little bit. Alt-shift to make it bipolar. >> >> So, different velocities now are going to play different cutoffs. >> >> And in addition, we have to go here and choose a note on discrete which is a random note based on whatever we press something, this is just going to sound a random value and we're going to put this here into oscillator A.
+
+Fine and just a tiny bit. >> >> Bipolar. >> >> Now let's go into the EQs and let's go into the effects section. So, we're going to go and start here with an EQ. >> >> Just taming a little bit of this low end.
+
+>> >> Something like this. But I also want to do a boost here. >> >> Really focus on the high end. In addition, we're just going to select here a filter putting it all the way up. It's not going to do much of a change.
+
+>> >> But it does a change when we boost a bit of the drive here. >> >> Now we're also going to have to include a bit of the delay. Ping pong to go left and right. 1/4, 1/8, but both dot. And you can see how this is not only going to make it ping pong by using the ping pong, but also by the tempo.
+
+>> >> A bit more feedback so this delay stays longer. Frequency a bit up as well. >> >> And Q a bit down. >> >> Just to focus in this high range, but also a bit higher up with this. Now to make this sound a bit bigger, reverb.
+
+We're going to use a vintage which is a different kind of reverb, but just a bit more vintage. Low cut as it says, it cuts a bit of the low end of the reverb and also a bit of a high cut. >> >> Size bigger and the decay bigger as well. >> >> A bit more dampening >> >> and a lot more chorus here. Now we push a bit more.
+
+>> >> And we also push the level here. This is not only the level of this reverb, it's the level of the overall sound. >> >> But we're also going to use a convolve and a convolve pretty much merges this sound with something else and we're going to convolve this with another kind of reverb which is this 80s verb A. But just a tiny bit. >> >> And we're going to go here in LFO 6 and we're going to go and do a lot of changes into it.
+
+So, free 1 and 1/2 bars. How? Add the dot and then we have 1 and 1/2 bars. And then we throw here 10 plus in the convolve. And six less in the reverb.
+
+>> >> Maybe more. >> >> Now, we're going to compress everything together. And in this compression we're going to choose multiband. >> >> We're going to do a lot of changes in this sound. We're going to make it a bit more compressed.
+
+>> >> We're going to make this attack really fast so it catches all the transients. >> >> And the release we're going to make it a little bit smaller. Essentially, after we go down for the threshold it's still going to hold the compressor a little bit there. >> >> And now we're going to lower a bit of the high end and boost a lot of the mid-range. >> >> But also a little bit less on the low end.
+
+And to finish everything just a mono bass. Now, if you want to make this sound a bit more MIDI, what you can do here is instead of using a high shelf, you can make this into a bell. >> >> And if you want to make it louder we can also boost it over here. >> >> Now, if you want to listen to this in context with sidechain >> >> Really nice sound that you can find over here in the description below and it's really cool that if you go into the original preset you can find all these macros and the mod wheel that essentially just makes your sound a lot more alive and it allows you to create all these modulations without having to overthink your sound design. You can get over here in the description below.
+
+This is Lil Orely from Abstract Music Lab signing off. Ciao.
